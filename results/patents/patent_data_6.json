@@ -1,0 +1,868 @@
+{
+    "search_metadata": {
+        "id": "688f8cf771ff8cb25ef81c59",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ee5e15be456b265d/688f8cf771ff8cb25ef81c59.json",
+        "created_at": "2025-08-03 16:23:19 UTC",
+        "processed_at": "2025-08-03 16:23:19 UTC",
+        "google_patents_details_url": "https://patents.google.com/patent/US20230044102A1/en",
+        "raw_html_file": "https://serpapi.com/searches/ee5e15be456b265d/688f8cf771ff8cb25ef81c59.html",
+        "total_time_taken": 1.1
+    },
+    "search_parameters": {
+        "engine": "google_patents_details",
+        "patent_id": "patent/US20230044102A1/en"
+    },
+    "title": "Ensemble machine learning models incorporating a model trust factor",
+    "type": "patent",
+    "pdf": "https://patentimages.storage.googleapis.com/1e/00/20/364c8fd3ee8499/US20230044102A1.pdf",
+    "publication_number": "US20230044102A1",
+    "country": "United States",
+    "prior_art_keywords": [
+        "machine learning",
+        "learning model",
+        "ensemble",
+        "model",
+        "models"
+    ],
+    "prior_art_date": "2021-08-02",
+    "application_number": "US17/557,742",
+    "inventors": [
+        {
+            "name": "Janet Anderson",
+            "link": "https://patents.google.com/?inventor=Janet+Anderson",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Janet+Anderson"
+        },
+        {
+            "name": "Nicholas D. BARTLOW",
+            "link": "https://patents.google.com/?inventor=Nicholas+D.+BARTLOW",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nicholas+D.+BARTLOW"
+        },
+        {
+            "name": "Nathan KALKA",
+            "link": "https://patents.google.com/?inventor=Nathan+KALKA",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nathan+KALKA"
+        }
+    ],
+    "assignees": [
+        "Noblis Inc"
+    ],
+    "priority_date": "2021-08-02",
+    "filing_date": "2021-12-21",
+    "publication_date": "2023-02-09",
+    "worldwide_applications": {
+        "2021": [
+            {
+                "filing_date": "2021-12-21",
+                "country_code": "US",
+                "application_number": "US17/557,742",
+                "document_id": "patent/US20230044102A1/en",
+                "legal_status_cat": "active",
+                "legal_status": "Pending",
+                "this_app": true
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": "2021-12-21",
+            "title": "Application filed by Noblis Inc",
+            "type": "filed",
+            "critical": true,
+            "assignee_search": "Noblis Inc"
+        },
+        {
+            "date": "2021-12-21",
+            "title": "Priority to US17/557,742",
+            "type": "priority",
+            "critical": true,
+            "document_id": "patent/US20230044102A1/en"
+        },
+        {
+            "date": "2021-12-30",
+            "title": "Assigned to NOBLIS, INC.",
+            "type": "reassignment",
+            "assignee_search": "NOBLIS, INC.",
+            "description": [
+                "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                "Assignors: ANDERSON, JANET, BARTLOW, NICK, KALKA, NATHAN"
+            ]
+        },
+        {
+            "date": "2023-02-09",
+            "title": "Publication of US20230044102A1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US20230044102A1/en"
+        },
+        {
+            "date": "2025-05-27",
+            "title": "Assigned to PNC BANK, NATIONAL ASSOCIATION",
+            "type": "reassignment",
+            "assignee_search": "PNC BANK, NATIONAL ASSOCIATION",
+            "description": [
+                "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+                "Assignors: NOBLIS, INC."
+            ]
+        },
+        {
+            "date": "Status",
+            "title": "Pending",
+            "type": "legal-status",
+            "critical": true,
+            "current": true
+        }
+    ],
+    "external_links": [
+        {
+            "text": "USPTO",
+            "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20230044102.PGNR."
+        },
+        {
+            "text": "USPTO PatentCenter",
+            "link": "https://patentcenter.uspto.gov/applications/17557742"
+        },
+        {
+            "text": "USPTO Assignment",
+            "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20230044102"
+        },
+        {
+            "text": "Espacenet",
+            "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2023044102A1&KC=A1&FT=D"
+        },
+        {
+            "text": "Global Dossier",
+            "link": "https://globaldossier.uspto.gov/result/application/US/17557742/1"
+        },
+        {
+            "text": "Discuss",
+            "link": "https://patents.stackexchange.com/questions/tagged/US20230044102"
+        }
+    ],
+    "images": [
+        "https://patentimages.storage.googleapis.com/8c/9c/ba/525003270a8c1f/US20230044102A1-20230209-D00000.png",
+        "https://patentimages.storage.googleapis.com/88/9e/ac/98aa0f94e63bdb/US20230044102A1-20230209-D00001.png",
+        "https://patentimages.storage.googleapis.com/90/02/20/9c3e792e5fa359/US20230044102A1-20230209-D00002.png",
+        "https://patentimages.storage.googleapis.com/5d/2a/42/b8d2a801575cde/US20230044102A1-20230209-D00003.png",
+        "https://patentimages.storage.googleapis.com/db/5b/dd/2c2239f0f29520/US20230044102A1-20230209-D00004.png",
+        "https://patentimages.storage.googleapis.com/f2/bc/cd/467b9666482dcb/US20230044102A1-20230209-D00005.png",
+        "https://patentimages.storage.googleapis.com/af/0d/30/fc552f19422f5a/US20230044102A1-20230209-D00006.png",
+        "https://patentimages.storage.googleapis.com/34/23/e8/388db37c844421/US20230044102A1-20230209-D00007.png",
+        "https://patentimages.storage.googleapis.com/4f/75/d2/f42494a9f53ee1/US20230044102A1-20230209-D00008.png",
+        "https://patentimages.storage.googleapis.com/ad/43/6b/681c0721144e3b/US20230044102A1-20230209-D00009.png",
+        "https://patentimages.storage.googleapis.com/15/10/46/659c0e6854d054/US20230044102A1-20230209-D00010.png",
+        "https://patentimages.storage.googleapis.com/35/da/af/e7e03dab809b9a/US20230044102A1-20230209-D00011.png"
+    ],
+    "classifications": [
+        {
+            "code": "G06N20/20",
+            "description": "Ensemble learning",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N20/10",
+            "description": "Machine learning using kernel methods, e.g. support vector machines [SVM]",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/08",
+            "description": "Learning methods",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N5/01",
+            "description": "Dynamic search techniques; Heuristics; Dynamic trees; Branch-and-bound",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        }
+    ],
+    "abstract": "Methods for improving the prediction accuracy for an ensemble machine learning model are described. In some instances, the methods comprise: (i) receiving data characterizing levels of trust in one or more machine learning models that form the ensemble machine learning model; (ii) calculating a prediction error estimate for each of the one or more machine learning models based on a trust score for that machine learning model and relative weights calculated for the data points in a training data set used to train that machine learning model; (iii) calculating a normalized weight for each of the one or more machine learning models using the prediction error estimate calculated for each; and (iv) adjusting an output prediction equation for the ensemble machine learning model, where the adjustment is based, at least in part, on the normalized weights calculated in for each of the one or more machine learning models.",
+    "description_link": "https://serpapi.com/searches/688f8cf771ff8cb25ef81c59/google_patents_details/description.html",
+    "claims": [
+        "1. A method for training an ensemble machine learning model comprising:\na) receiving data characterizing levels of trust in a plurality of machine learning models, wherein the plurality of machine learning models collectively form at least part of the ensemble machine learning model; b) calculating a prediction error estimate for each machine learning model of the plurality, wherein the prediction error estimate for each machine learning model is based on a trust score for that machine learning model and relative weights calculated for at least a subset of the data points in a training data set used to train that machine learning model; c) calculating a normalized weight for each machine learning model of the plurality using the prediction error estimate calculated in (b) for each machine learning model of the plurality; and d) determining an output prediction equation for the ensemble machine learning model, wherein the determination is based, at least in part, on the normalized weights calculated in (c) for each machine learning model of the plurality.",
+        "2. The method of claim 1, wherein the data characterizing a level of trust in each machine learning model of the plurality comprises a trust score for each machine learning model of the plurality.",
+        "3. The method of claim 2, wherein the trust score is a real number having a value ranging from 0.0 to 1.0.",
+        "4. The method of claim 2, wherein the trust score for each machine learning model of the plurality is calculated from the received data.",
+        "5. The method of claim 4, wherein the received data comprises data relating to a sensitivity of model predictions to input data quality, a sensitivity of model predictions to distributional shifts of training data input, a sensitivity of model predictions to out-of-distribution (OOD) input data, a posterior distribution of model predictions, prediction confidence scores aggregated across one or more training data sets, a ratio of calculated nearest neighbor distances for interclass and intraclass predictions, one or more model performance metrics, or any combination thereof.",
+        "6. The method of claim 1, wherein the prediction error estimate is calculated for each machine learning model of the plurality using a loss-based penalty function for that machine learning model that is based, at least in part, on the trust score for that machine learning model.",
+        "7. The method of claim 6, wherein the loss-based penalty function for each machine learning model of the plurality comprises a factor of (2\u2212t), where t is the trust score for that machine learning model and has a value of 0\u2264t\u22641.",
+        "8. The method of claim 7, wherein the prediction error estimate calculation for each machine learning model of the plurality comprises a sum of loss-based penalty function terms each comprising a product of a relative weight for a training data point for which that machine learning model prediction was incorrect and a factor of (2\u2212t), where t is the trust score for that machine learning model.",
+        "9. The method of claim 8, wherein the prediction error estimate for each machine learning model of the plurality is calculated according to the equation:\n      \n        \n          \n            \n              \n                e\n                \u2062\n                r\n                \u2062\n                r\n              \n              =\n              \n                \n                  \u2211\n                  \n                    i\n                    =\n                    1\n                  \n                  m\n                \n                \n                  \n                    \n                      D\n                      j\n                    \n                    (\n                    i\n                    )\n                  \n                  \u2062\n                  \n                    (\n                    \n                      \n                        h\n                        \u2061\n                        (\n                        \n                          x\n                          i\n                        \n                        )\n                      \n                      \u2260\n                      \n                        y\n                        i\n                      \n                    \n                    )\n                  \n                  *\n                  \n                    (\n                    \n                      2\n                      -\n                      t\n                    \n                    )\n                  \n                \n              \n            \n          \n        \n        wherein m is a number of labeled training data point pairs in a training data set used to train a given machine learning model of the plurality of machine learning models, Dj(i) is a normalized weight for an ith training data point for the jth machine learning model, (h(xi)\u2260yi) is a subset of training data points for which the given machine learning model's predicted output value, h(xi), does not equal a known value, yi, and t is the trust score for the given machine learning model.",
+        "e\n                \u2062\n                r\n                \u2062\n                r\n              \n              =\n              \n                \n                  \u2211\n                  \n                    i\n                    =\n                    1\n                  \n                  m\n                \n                \n                  \n                    \n                      D\n                      j\n                    \n                    (\n                    i\n                    )\n                  \n                  \u2062\n                  \n                    (\n                    \n                      \n                        h\n                        \u2061\n                        (\n                        \n                          x\n                          i\n                        \n                        )\n                      \n                      \u2260\n                      \n                        y\n                        i\n                      \n                    \n                    )\n                  \n                  *\n                  \n                    (\n                    \n                      2\n                      -\n                      t\n                    \n                    )",
+        "10. The method of claim 1, wherein the output prediction of the ensemble machine learning model is given by the equation:\n      \n        \n          \n            \n              \n                F\n                \u2061\n                (\n                x\n                )\n              \n              =\n              \n                sign\n                \u2062\n                  \n                \n                  (\n                  \n                    \n                      \u2211\n                      \n                        i\n                        =\n                        1\n                      \n                      N\n                    \n                    \n                      \n                        w\n                        i\n                      \n                      \u2062\n                      \n                        \n                          f\n                          i\n                        \n                        (\n                        x\n                        )\n                      \n                    \n                  \n                  )\n                \n              \n            \n          \n        \n        wherein F(x) is a prediction of the ensemble machine learning model for input data value x, N is a number of machine learning models in the ensemble machine learning model, wi are normalized weights for the plurality of machine learning models that collectively form at least part of the ensemble machine learning model, and fi(x) are predictions of the individual machine learning models in the ensemble for input data value x.",
+        "F\n                \u2061\n                (\n                x\n                )\n              \n              =\n              \n                sign\n                \u2062\n                  \n                \n                  (\n                  \n                    \n                      \u2211\n                      \n                        i\n                        =\n                        1\n                      \n                      N\n                    \n                    \n                      \n                        w\n                        i\n                      \n                      \u2062\n                      \n                        \n                          f\n                          i\n                        \n                        (\n                        x\n                        )\n                      \n                    \n                  \n                  )",
+        "11. The method of claim 10, wherein the normalized weight, wi, for each machine learning model of the plurality is calculated, at least in part, by taking a natural logarithm of a quotient comprising the prediction error estimate for that machine learning model.",
+        "12. The method of claim 11, wherein the normalized weight, wi, for each machine learning model of the plurality is calculated, at least in part, according to the equation:\n      \n        \n          \n            \n              \n                w\n                \n                  i\n                  ,\n                  \n                    \n                      n\n                      \u2062\n                      o\n                      \u2062\n                      n\n                    \n                    -\n                    normalized\n                  \n                \n              \n              =\n              \n                \n                  1\n                  2\n                \n                \u2062\n                ln\n                \u2062\n                  \n                \n                  (\n                  \n                    \n                      1\n                      -\n                      \n                        e\n                        \u2062\n                        r\n                        \u2062\n                        \n                          r\n                          i\n                        \n                      \n                    \n                    \n                      e\n                      \u2062\n                      r\n                      \u2062\n                      \n                        r\n                        i\n                      \n                    \n                  \n                  )\n                \n              \n            \n          \n        \n        wherein erri is the prediction error estimate calculated for the ith machine learning model of the plurality, wherein\n  w i =w i,non-normalized/\u03a3i=1 N w i,non-normalized \n\n\n        and wherein N is a number of individual machine learning models in the ensemble machine learning model.",
+        "w\n                \n                  i\n                  ,\n                  \n                    \n                      n\n                      \u2062\n                      o\n                      \u2062\n                      n\n                    \n                    -\n                    normalized\n                  \n                \n              \n              =\n              \n                \n                  1\n                  2\n                \n                \u2062\n                ln\n                \u2062\n                  \n                \n                  (\n                  \n                    \n                      1\n                      -\n                      \n                        e\n                        \u2062\n                        r\n                        \u2062\n                        \n                          r\n                          i\n                        \n                      \n                    \n                    \n                      e\n                      \u2062\n                      r\n                      \u2062\n                      \n                        r\n                        i\n                      \n                    \n                  \n                  )",
+        "13. The method of claim 10, wherein the normalized weights for the individual machine learning models of the ensemble machine learning model are calculated by:\na) reformulating the output prediction equation in the form of a quadratic unconstrained binary optimization (QUBO) problem; and b) using a quantum computing method to solve the QUBO problem for the normalized weights, wi, for the one or more machine learning models.",
+        "14. The method of claim 1, further comprising receiving additional data characterizing levels of trust in one or more machine learning models of the plurality and re-adjusting the output prediction equation for the ensemble if a change in a level of trust is detected for one or more machine learning models of the plurality.",
+        "15. The method of claim 1, wherein one or more of the machine learning models of the plurality of machine learning models comprises a classifier model.",
+        "16. The method of claim 15, wherein the classifier model comprises an artificial neural network (ANN), deep learning algorithm (DLA), decision tree algorithm, Na\u00efve Bayes algorithm, support vector machine (SVM), or k-nearest neighbor (KNN) algorithm.",
+        "17. The method of claim 1, wherein the ensemble machine learning model is trained using an AdaBoost method.",
+        "18. A method for training an ensemble machine learning model comprising:\na) receiving data characterizing levels of trust in a plurality of machine learning models, wherein the plurality of machine learning models collectively form at least part of the ensemble machine learning model; b) training individual machine learning models of the ensemble machine learning model using an AdaBoost method, wherein the training comprises the use of a loss-based penalty function for each machine learning model of the plurality to calculate a prediction error estimate for that machine learning model, and wherein the prediction error estimate is based on a trust score for that machine learning model and relative weights calculated for at least a subset of data points in a training data set used to train that machine learning model; and c) calculating a normalized weight for each individual machine learning model of the ensemble; and d) determining an output prediction equation for the ensemble machine learning model, wherein the normalized weights calculated in (c) are used to formulate the output prediction equation for the ensemble machine learning model.",
+        "19. The method of claim 18, further comprising formulating the output prediction equation for the ensemble machine learning model as a sum of two terms:\na) an exponential loss function term that provides a measure of a total number of errors made by the ensemble machine learning model as a function of the normalized weights, wi, for the individual machine learning models of the ensemble in predicting a result, y\u2032s, for a given input value, xs, when processing a training data set comprising labeled training data points, (xs, ys); and b) a regularization term that comprises a product of (i) a sum of non-zero normalized weights, wi 0, for the individual of machine learning models of the ensemble and (ii) a control variable, \u03bb; and \n      minimizing the two terms of the output prediction equation to determine the normalized weights, wi, for the plurality of machine learning models.",
+        "20. The method of claim 19, wherein the minimizing is performed by\na) converting the normalized weights, wi, for the plurality of machine learning models to binary values using a binary expansion; b) rewriting the exponential loss function as a quadratic loss function; c) expanding and combining the quadratic loss function term, the binary values of the normalized weights, wi, and the regularization term to formulate a quadratic unconstrained binary optimization (QUBO) problem; and d) solving the QUBO problem using a quantum computing platform.",
+        "21. The method of claim 18, wherein the ensemble machine learning model is a binary classifier.",
+        "22. The method of claim 20, wherein the binary values derived from binary expansion of the normalized weights, wi, for the plurality of machine learning models comprise qubits.",
+        "23. The method of claim 22, wherein the minimum number of qubits, b, required for the binary expansion is given by b\u2265log2(f)+log2(e)\u22121, where e is Euler's number, f=S/N, S is the number of training data point pairs, and N is the number of individual machine learning models in the ensemble machine learning model.",
+        "24. The method of claim 23, wherein b<32.",
+        "25. The method of claim 23, wherein b=1.",
+        "26. The method of claim 25, wherein the quadratic unconstrained binary optimization (QUBO) is expressed as:\n      \n        \n          \n            \n              \n                w\n                opt\n              \n              =\n              \n                arg\n                \u2062\n                \n                  \n                      \n                    min\n                  \n                  w\n                \n                \u2062\n                \n                  (\n                  \n                    \n                      \n                        \u2211\n                        \n                          i\n                          =\n                          1\n                        \n                        N\n                      \n                      \n                        \n                          \u2211\n                          \n                            j\n                            =\n                            1\n                          \n                          N\n                        \n                        \n                          \n                            w\n                            i\n                          \n                          \u2062\n                          \n                            \n                              w\n                              j\n                            \n                            (\n                            \n                              \n                                \u2211\n                                \n                                  s\n                                  =\n                                  1\n                                \n                                S\n                              \n                              \n                                \n                                  \n                                    h\n                                    i\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                                \u2062\n                                \n                                  \n                                    h\n                                    j\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                              \n                            \n                            )\n                          \n                        \n                      \n                    \n                    +\n                    \n                      \n                        \u2211\n                        \n                          i\n                          =\n                          1\n                        \n                        N\n                      \n                      \n                        \n                          w\n                          i\n                        \n                        (\n                        \n                          \u03bb\n                          -\n                          \n                            2\n                            \u2062\n                            \n                              \n                                \u2211\n                                \n                                  s\n                                  =\n                                  1\n                                \n                                S\n                              \n                              \n                                \n                                  \n                                    h\n                                    i\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                                \u2062\n                                \n                                  y\n                                  s\n                                \n                              \n                            \n                          \n                        \n                        )\n                      \n                    \n                  \n                  )\n                \n              \n            \n          \n        \n        wherein wopt is a set of optimized weights for a binary classifier which is used to weight predictions of the individual machine learning models.",
+        "w\n                opt\n              \n              =\n              \n                arg\n                \u2062\n                \n                  \n                      \n                    min\n                  \n                  w\n                \n                \u2062\n                \n                  (\n                  \n                    \n                      \n                        \u2211\n                        \n                          i\n                          =\n                          1\n                        \n                        N\n                      \n                      \n                        \n                          \u2211\n                          \n                            j\n                            =\n                            1\n                          \n                          N\n                        \n                        \n                          \n                            w\n                            i\n                          \n                          \u2062\n                          \n                            \n                              w\n                              j\n                            \n                            (\n                            \n                              \n                                \u2211\n                                \n                                  s\n                                  =\n                                  1\n                                \n                                S\n                              \n                              \n                                \n                                  \n                                    h\n                                    i\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                                \u2062\n                                \n                                  \n                                    h\n                                    j\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                              \n                            \n                            )\n                          \n                        \n                      \n                    \n                    +\n                    \n                      \n                        \u2211\n                        \n                          i\n                          =\n                          1\n                        \n                        N\n                      \n                      \n                        \n                          w\n                          i\n                        \n                        (\n                        \n                          \u03bb\n                          -\n                          \n                            2\n                            \u2062\n                            \n                              \n                                \u2211\n                                \n                                  s\n                                  =\n                                  1\n                                \n                                S\n                              \n                              \n                                \n                                  \n                                    h\n                                    i\n                                  \n                                  (\n                                  \n                                    x\n                                    s\n                                  \n                                  )\n                                \n                                \u2062\n                                \n                                  y\n                                  s\n                                \n                              \n                            \n                          \n                        \n                        )\n                      \n                    \n                  \n                  )",
+        "27. The method of claim 18, further comprising receiving additional data characterizing levels of trust in one or more machine learning models of the plurality and re-calculating the normalized weight for each individual machine learning model of the ensemble if a change in a level of trust is detected for one or more machine learning models of the plurality.",
+        "28. The method of claim 20, wherein the quantum computing platform comprises an Amazon Bracket, Azure Quantum, D-Wave, or TensorFlow Quantum quantum computing platform.",
+        "29. A system comprising:\none or more processors; memory; and one or more programs stored in the memory and comprising instructions that, when executed by the one or more processors, cause the one or more processors to:\na) receive data characterizing levels of trust in a plurality of machine learning models, wherein the plurality of machine learning models collectively form at least part of the ensemble machine learning model;\nb) calculate a prediction error estimate for each machine learning model of the plurality, wherein the prediction error estimate for each machine learning model is based on a trust score for that machine learning model and relative weights calculated for at least a subset of the data points in a training data set used to train that machine learning model;\nc) calculate a normalized weight for each machine learning model of the plurality using the prediction error estimate calculated in (b) for each machine learning model of the plurality; and\nd) determine an output prediction equation for the ensemble machine learning model, wherein the determination is based, at least in part, on the normalized weights calculated in (c) for each machine learning model of the plurality.",
+        "30. A non-transitory, computer-readable medium storing one or more programs, the one or more programs comprising instructions which, when executed by one or more processors of an electronic device or system, cause the electronic device or system to:\na) receive data characterizing levels of trust in a plurality of machine learning models, wherein the plurality of machine learning models collectively form at least part of the ensemble machine learning model; b) calculate a prediction error estimate for each machine learning model of the plurality, wherein the prediction error estimate for each machine learning model is based on a trust score for that machine learning model and relative weights calculated for at least a subset of the data points in a training data set used to train that machine learning model; c) calculate a normalized weight for each machine learning model of the plurality using the prediction error estimate calculated in (b) for each machine learning model of the plurality; and d) determine an output prediction equation for the ensemble machine learning model, wherein the determination is based, at least in part, on the normalized weights calculated in (c) for each machine learning model of the plurality."
+    ],
+    "priority_applications": [
+        {
+            "application_number": "US17/557,742",
+            "representative_publication": "US20230044102A1",
+            "primary_language": "en",
+            "priority_date": "2021-08-02",
+            "filing_date": "2021-12-21",
+            "title": "Ensemble machine learning models incorporating a model trust factor"
+        }
+    ],
+    "applications_claiming_priority": [
+        {
+            "application_number": "US202163228379P",
+            "priority_date": "2021-08-02",
+            "filing_date": "2021-08-02"
+        },
+        {
+            "application_number": "US17/557,742",
+            "representative_publication": "US20230044102A1",
+            "primary_language": "en",
+            "priority_date": "2021-08-02",
+            "filing_date": "2021-12-21",
+            "title": "Ensemble machine learning models incorporating a model trust factor"
+        }
+    ],
+    "family_id": "85152057",
+    "patent_citations": {
+        "original": [
+            {
+                "publication_number": "US20120229826A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2009-11-24",
+                "publication_date": "2012-09-13",
+                "assignee_original": "Zolnay Andras G",
+                "title": "Method for digital image adaption for printing an image on a printing apparatus",
+                "patent_id": "patent/US20120229826A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120229826A1%2Fen"
+            },
+            {
+                "publication_number": "US10558932B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2014-04-23",
+                "publication_date": "2020-02-11",
+                "assignee_original": "Google Llc",
+                "title": "Multi-machine distributed learning systems",
+                "patent_id": "patent/US10558932B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10558932B1%2Fen"
+            },
+            {
+                "publication_number": "US20200067969A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-08-22",
+                "publication_date": "2020-02-27",
+                "assignee_original": "General Electric Company",
+                "title": "Situation awareness and dynamic ensemble forecasting of abnormal behavior in cyber-physical system",
+                "patent_id": "patent/US20200067969A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200067969A1%2Fen"
+            },
+            {
+                "publication_number": "US20210004682A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-06-27",
+                "publication_date": "2021-01-07",
+                "assignee_original": "Google Llc",
+                "title": "Adapting a sequence model for use in predicting future device interactions with a computing system",
+                "patent_id": "patent/US20210004682A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210004682A1%2Fen"
+            },
+            {
+                "publication_number": "US20210124988A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-10-28",
+                "publication_date": "2021-04-29",
+                "assignee_original": "Denso Corporation",
+                "title": "Information processing apparatus and method and program for generating integrated model",
+                "patent_id": "patent/US20210124988A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210124988A1%2Fen"
+            },
+            {
+                "publication_number": "US20220114444A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-10-09",
+                "publication_date": "2022-04-14",
+                "assignee_original": "Naver Corporation",
+                "title": "Superloss: a generic loss for robust curriculum learning",
+                "patent_id": "patent/US20220114444A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220114444A1%2Fen"
+            },
+            {
+                "publication_number": "US20220164711A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-03-28",
+                "publication_date": "2022-05-26",
+                "assignee_original": "Board Of Regents Of The University Of Texas System",
+                "title": "Computerized system and method for antigen-independent de novo prediction of cancer-associated tcr repertoire",
+                "patent_id": "patent/US20220164711A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220164711A1%2Fen"
+            },
+            {
+                "publication_number": "US11620573B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2013-05-31",
+                "publication_date": "2023-04-04",
+                "assignee_original": "Google Llc",
+                "title": "Totally corrective boosting with cardinality penalization",
+                "patent_id": "patent/US11620573B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11620573B1%2Fen"
+            },
+            {
+                "publication_number": "US20230148321A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-04-03",
+                "publication_date": "2023-05-11",
+                "assignee_original": "Presagen Pty Ltd",
+                "title": "Method for artificial intelligence (ai) model selection",
+                "patent_id": "patent/US20230148321A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230148321A1%2Fen"
+            },
+            {
+                "publication_number": "US20230368915A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-09-10",
+                "publication_date": "2023-11-16",
+                "assignee_original": "Caris Mpi, Inc.",
+                "title": "Metastasis predictor",
+                "patent_id": "patent/US20230368915A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230368915A1%2Fen"
+            }
+        ]
+    },
+    "non_patent_citations": [
+        {
+            "title": "Liu, et al. (1 March 2015), \"Comparison of four Adaboost algorithm based artificial neural networks in wind speed predictions,\" Energy Conversation and Management, Vol. 92 (Year: 2015)",
+            "examiner_cited": "*"
+        },
+        {
+            "title": "Ruder, Sebastian (15 Jun 2017), \"An Overview of Gradient Descent Optimization Algorithms,\" arXiv:1609.04747v2 (Year: 2017)",
+            "examiner_cited": "*"
+        },
+        {
+            "title": "Schapire, Robert E., (2013) \"Empirical Inference\" Chapter 5: Explaining AdaBoost,\" ISBN 973-3-642-41136-6 (Year: 2013)",
+            "examiner_cited": "*"
+        }
+    ],
+    "cited_by": {
+        "original": [
+            {
+                "publication_number": "US20230196154A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-12-22",
+                "publication_date": "2023-06-22",
+                "assignee_original": "Multiverse Computing SL.",
+                "title": "Methods, devices and computer program products for setting a classifier with quantum computation",
+                "patent_id": "patent/US20230196154A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230196154A1%2Fen"
+            },
+            {
+                "publication_number": "CN116319025A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-03-22",
+                "publication_date": "2023-06-23",
+                "assignee_original": "\u4e91\u5357\u7535\u7f51\u6709\u9650\u8d23\u4efb\u516c\u53f8\u4fe1\u606f\u4e2d\u5fc3",
+                "title": "Zero-trust network trust evaluation method based on machine learning",
+                "patent_id": "patent/CN116319025A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116319025A%2Fen"
+            },
+            {
+                "publication_number": "US20230262010A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-09-23",
+                "publication_date": "2023-08-17",
+                "assignee_original": "Capital One Services, Llc",
+                "title": "Systems and methods for generating dynamic conversational responses using ensemble prediction based on a plurality of machine learning models",
+                "patent_id": "patent/US20230262010A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230262010A1%2Fen"
+            },
+            {
+                "publication_number": "CN116680660A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-06-15",
+                "publication_date": "2023-09-01",
+                "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+                "title": "HHO-stacking integrated learning-based integrated circuit deposition film thickness prediction method",
+                "patent_id": "patent/CN116680660A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116680660A%2Fen"
+            },
+            {
+                "publication_number": "US20230325495A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-04-06",
+                "publication_date": "2023-10-12",
+                "assignee_original": "Microsoft Technology Licensing, Llc",
+                "title": "Detecting an algorithmic attack against a hosted ai system based on inputs and outputs of the hosted ai system",
+                "patent_id": "patent/US20230325495A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230325495A1%2Fen"
+            },
+            {
+                "publication_number": "US20230419378A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-06-27",
+                "publication_date": "2023-12-28",
+                "assignee_original": "Dell Products L.P.",
+                "title": "Quantum accuracy score",
+                "patent_id": "patent/US20230419378A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230419378A1%2Fen"
+            },
+            {
+                "publication_number": "CN117391836A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-07-26",
+                "publication_date": "2024-01-12",
+                "assignee_original": "\u4eba\u4e0a\u878d\u878d(\u6c5f\u82cf)\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Method for modeling overdue probability based on heterogeneous integration of different labels",
+                "patent_id": "patent/CN117391836A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117391836A%2Fen"
+            },
+            {
+                "publication_number": "US11922314B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-11-30",
+                "publication_date": "2024-03-05",
+                "assignee_original": "Ansys, Inc.",
+                "title": "Systems and methods for building dynamic reduced order physical models",
+                "patent_id": "patent/US11922314B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11922314B1%2Fen"
+            },
+            {
+                "publication_number": "US20240169518A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-07-26",
+                "publication_date": "2024-05-23",
+                "assignee_original": "Boe Technology Group Co., Ltd.",
+                "title": "Method and apparatus for identifying body constitution in traditional chinese medicine, electronic device, storage medium and program",
+                "patent_id": "patent/US20240169518A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240169518A1%2Fen"
+            },
+            {
+                "publication_number": "US20240273232A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-02-15",
+                "publication_date": "2024-08-15",
+                "assignee_original": "BeeKeeperAI, Inc.",
+                "title": "Systems and methods for measuring data exfiltration vulnerability and dynamic differential privacy in a zero-trust computing environment",
+                "patent_id": "patent/US20240273232A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240273232A1%2Fen"
+            },
+            {
+                "publication_number": "US12087503B2",
+                "primary_language": "en",
+                "priority_date": "2021-06-11",
+                "publication_date": "2024-09-10",
+                "assignee_original": "SeeQC, Inc.",
+                "title": "System and method of flux bias for superconducting quantum circuits",
+                "patent_id": "patent/US12087503B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12087503B2%2Fen"
+            },
+            {
+                "publication_number": "CN118709812A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-08-28",
+                "publication_date": "2024-09-27",
+                "assignee_original": "\u6e56\u5317\u661f\u7eaa\u9b45\u65cf\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "title": "Training methods, inference methods, electronic devices and media for machine learning models",
+                "patent_id": "patent/CN118709812A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118709812A%2Fen"
+            },
+            {
+                "publication_number": "CN118743537A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-06-21",
+                "publication_date": "2024-10-08",
+                "assignee_original": "\u6df1\u5733\u5e02\u55e8\u897f\u897f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Detection method and system of multimodal physiological indicators for pet health assessment",
+                "patent_id": "patent/CN118743537A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118743537A%2Fen"
+            },
+            {
+                "publication_number": "WO2024224605A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-04-28",
+                "publication_date": "2024-10-31",
+                "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+                "title": "Learning model regularization device, learning model regularization method, and recording medium",
+                "patent_id": "patent/WO2024224605A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024224605A1%2Fen"
+            },
+            {
+                "publication_number": "US12210949B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-12-11",
+                "publication_date": "2025-01-28",
+                "assignee_original": "Citibank, N.A.",
+                "title": "Systems and methods for detecting required rule engine updated using artificial intelligence models",
+                "patent_id": "patent/US12210949B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12210949B1%2Fen"
+            },
+            {
+                "publication_number": "US12229261B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-05-03",
+                "publication_date": "2025-02-18",
+                "assignee_original": "Halcyon Tech, Inc.",
+                "title": "Antiransomware file analysis and scoring",
+                "patent_id": "patent/US12229261B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12229261B1%2Fen"
+            },
+            {
+                "publication_number": "US20250086492A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-09-07",
+                "publication_date": "2025-03-13",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Performing quantum error mitigation at runtime using trained machine learning model",
+                "patent_id": "patent/US20250086492A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250086492A1%2Fen"
+            },
+            {
+                "publication_number": "EP4524837A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-09-12",
+                "publication_date": "2025-03-19",
+                "assignee_original": "Multiverse Computing S.L.",
+                "title": "Method for adjusting a boosted classifier, boosted classifier and device or system for performing the method",
+                "patent_id": "patent/EP4524837A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4524837A1%2Fen"
+            },
+            {
+                "publication_number": "US20250097309A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-09-15",
+                "publication_date": "2025-03-20",
+                "assignee_original": "Jpmorgan Chase Bank, N.A.",
+                "title": "Systems and methods for real-time identity proofing with verification",
+                "patent_id": "patent/US20250097309A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250097309A1%2Fen"
+            }
+        ]
+    },
+    "similar_documents": [
+        {
+            "is_patent": true,
+            "publication_number": "US20230044102A1",
+            "primary_language": "en",
+            "publication_date": "2023-02-09",
+            "title": "Ensemble machine learning models incorporating a model trust factor",
+            "patent_id": "patent/US20230044102A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230044102A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "13563038721703122475",
+            "scholar_authors": "Talaei Khoei et al.",
+            "publication_date": "2023",
+            "title": "Deep learning: systematic review, models, challenges, and research directions",
+            "patent_id": "scholar/13563038721703122475",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13563038721703122475"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11620487B2",
+            "primary_language": "en",
+            "publication_date": "2023-04-04",
+            "title": "Neural architecture search based on synaptic connectivity graphs",
+            "patent_id": "patent/US11620487B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11620487B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN110263227B",
+            "primary_language": "en",
+            "publication_date": "2023-07-18",
+            "title": "Group partner discovery method and system based on graph neural network",
+            "patent_id": "patent/CN110263227B/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110263227B%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11593617B2",
+            "primary_language": "en",
+            "publication_date": "2023-02-28",
+            "title": "Reservoir computing neural networks based on synaptic connectivity graphs",
+            "patent_id": "patent/US11593617B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11593617B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11593627B2",
+            "primary_language": "en",
+            "publication_date": "2023-02-28",
+            "title": "Artificial neural network architectures based on synaptic connectivity graphs",
+            "patent_id": "patent/US11593627B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11593627B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11568201B2",
+            "primary_language": "en",
+            "publication_date": "2023-01-31",
+            "title": "Predicting neuron types based on synaptic connectivity graphs",
+            "patent_id": "patent/US11568201B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11568201B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11531886B2",
+            "primary_language": "en",
+            "publication_date": "2022-12-20",
+            "title": "Bayesian graph convolutional neural networks",
+            "patent_id": "patent/US11531886B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11531886B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11625611B2",
+            "primary_language": "en",
+            "publication_date": "2023-04-11",
+            "title": "Training artificial neural networks based on synaptic connectivity graphs",
+            "patent_id": "patent/US11625611B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11625611B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240062515A1",
+            "primary_language": "en",
+            "publication_date": "2024-02-22",
+            "title": "Method for classification using deep learning model",
+            "patent_id": "patent/US20240062515A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240062515A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11631000B2",
+            "primary_language": "en",
+            "publication_date": "2023-04-18",
+            "title": "Training artificial neural networks based on synaptic connectivity graphs",
+            "patent_id": "patent/US11631000B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11631000B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20220129758A1",
+            "primary_language": "en",
+            "publication_date": "2022-04-28",
+            "title": "Clustering autoencoder",
+            "patent_id": "patent/US20220129758A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220129758A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11669565B2",
+            "primary_language": "en",
+            "publication_date": "2023-06-06",
+            "title": "Method and apparatus for tracking object",
+            "patent_id": "patent/US11669565B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11669565B2%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "6220049454729450257",
+            "scholar_authors": "Yan et al.",
+            "publication_date": "2024",
+            "title": "Navigating uncertainties in machine learning for structural dynamics: A comprehensive review of probabilistic and non-probabilistic approaches in forward and inverse problems",
+            "patent_id": "scholar/6220049454729450257",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6220049454729450257"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "16039332880386817507",
+            "scholar_authors": "Baharlouei et al.",
+            "publication_date": "2023",
+            "title": "Rifle: Imputation and robust inference from low order marginals",
+            "patent_id": "scholar/16039332880386817507",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16039332880386817507"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "15701523239655449628",
+            "scholar_authors": "Raykov et al.",
+            "publication_date": "2022",
+            "title": "Principled machine learning",
+            "patent_id": "scholar/15701523239655449628",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15701523239655449628"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "WO2021119282A1",
+            "primary_language": "en",
+            "publication_date": "2021-06-17",
+            "title": "Hyper-opinion classification using a neural network",
+            "patent_id": "patent/WO2021119282A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021119282A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "10097666851579030289",
+            "scholar_authors": "Pandey et al.",
+            "publication_date": "2020",
+            "title": "Overview of machine learning and deep learning concepts",
+            "patent_id": "scholar/10097666851579030289",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10097666851579030289"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "15876675676549796493",
+            "scholar_authors": "Gupta et al.",
+            "publication_date": "2022",
+            "title": "A review of ensemble methods used in ai applications",
+            "patent_id": "scholar/15876675676549796493",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15876675676549796493"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "10054232354735095833",
+            "scholar_authors": "Divyashree et al.",
+            "publication_date": "2022",
+            "title": "Algorithms: Supervised machine learning types and their application domains",
+            "patent_id": "scholar/10054232354735095833",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10054232354735095833"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "861162020313103817",
+            "scholar_authors": "Swaroop et al.",
+            "publication_date": "2023",
+            "title": "CGSA optimized LSTM auto encoder for outlier detection",
+            "patent_id": "scholar/861162020313103817",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F861162020313103817"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "13245450663359147806",
+            "scholar_authors": "Talukdar et al.",
+            "publication_date": "2023",
+            "title": "Supervised Learning",
+            "patent_id": "scholar/13245450663359147806",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13245450663359147806"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "364378970506682984",
+            "scholar_authors": "Sharma et al.",
+            "publication_date": "2021",
+            "title": "Machine learning implementations in bioinformatics and its application",
+            "patent_id": "scholar/364378970506682984",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F364378970506682984"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "11962494205735862041",
+            "scholar_authors": "Velankar et al.",
+            "publication_date": "2024",
+            "title": "Rethinking machine learning and deep learning",
+            "patent_id": "scholar/11962494205735862041",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11962494205735862041"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "6588175656755848400",
+            "scholar_authors": "Mahalle et al.",
+            "publication_date": "2023",
+            "title": "Model-Centric AI",
+            "patent_id": "scholar/6588175656755848400",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6588175656755848400"
+        }
+    ],
+    "legal_events": [
+        {
+            "date": "2021-12-30",
+            "code": "AS",
+            "title": "Assignment",
+            "attributes": [
+                {
+                    "label": "Owner name",
+                    "value": "NOBLIS, INC., VIRGINIA"
+                },
+                {
+                    "label": "Free format text",
+                    "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ANDERSON, JANET;BARTLOW, NICK;KALKA, NATHAN;REEL/FRAME:058509/0726"
+                },
+                {
+                    "label": "Effective date",
+                    "value": "20210803"
+                }
+            ]
+        },
+        {
+            "date": "2022-01-13",
+            "code": "STPP",
+            "title": "Information on status: patent application and granting procedure in general",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-27",
+            "code": "AS",
+            "title": "Assignment",
+            "attributes": [
+                {
+                    "label": "Owner name",
+                    "value": "PNC BANK, NATIONAL ASSOCIATION, PENNSYLVANIA"
+                },
+                {
+                    "label": "Free format text",
+                    "value": "SECURITY INTEREST;ASSIGNOR:NOBLIS, INC.;REEL/FRAME:071415/0887"
+                },
+                {
+                    "label": "Effective date",
+                    "value": "20250527"
+                }
+            ]
+        }
+    ]
+}

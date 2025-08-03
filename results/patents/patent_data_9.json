@@ -1,0 +1,2473 @@
+{
+    "search_metadata": {
+        "id": "688f8cfe6e22378fd27653fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cf18a476ee6de537/688f8cfe6e22378fd27653fa.json",
+        "created_at": "2025-08-03 16:23:26 UTC",
+        "processed_at": "2025-08-03 16:23:26 UTC",
+        "google_patents_details_url": "https://patents.google.com/patent/US11436615B2/en",
+        "raw_html_file": "https://serpapi.com/searches/cf18a476ee6de537/688f8cfe6e22378fd27653fa.html",
+        "total_time_taken": 0.98
+    },
+    "search_parameters": {
+        "engine": "google_patents_details",
+        "patent_id": "patent/US11436615B2/en"
+    },
+    "title": "System and method for blockchain transaction risk management using machine learning",
+    "type": "patent",
+    "pdf": "https://patentimages.storage.googleapis.com/02/62/30/6988db755fbbed/US11436615.pdf",
+    "publication_number": "US11436615B2",
+    "country": "United States",
+    "prior_art_keywords": [
+        "model",
+        "risk",
+        "blockchain",
+        "digital",
+        "machine learning"
+    ],
+    "prior_art_date": "2020-08-28",
+    "application_number": "US17/006,431",
+    "inventors": [
+        {
+            "name": "Chunsheng Victor Fang",
+            "link": "https://patents.google.com/?inventor=Chunsheng+Victor+Fang",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Chunsheng+Victor+Fang"
+        },
+        {
+            "name": "Wei Quan",
+            "link": "https://patents.google.com/?inventor=Wei+Quan",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Wei+Quan"
+        },
+        {
+            "name": "Ben Binyi Wu",
+            "link": "https://patents.google.com/?inventor=Ben+Binyi+Wu",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ben+Binyi+Wu"
+        }
+    ],
+    "assignees": [
+        "AnchainAi",
+        "AnchainAi Inc"
+    ],
+    "priority_date": "2020-08-28",
+    "filing_date": "2020-08-28",
+    "publication_date": "2022-09-06",
+    "worldwide_applications": {
+        "2020": [
+            {
+                "filing_date": "2020-08-28",
+                "country_code": "US",
+                "application_number": "US17/006,431",
+                "document_id": "patent/US11436615B2/en",
+                "legal_status_cat": "active",
+                "legal_status": "Active",
+                "this_app": true
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": "2020-08-28",
+            "title": "Application filed by AnchainAi Inc",
+            "type": "filed",
+            "critical": true,
+            "assignee_search": "AnchainAi Inc"
+        },
+        {
+            "date": "2020-08-28",
+            "title": "Priority to US17/006,431",
+            "type": "priority",
+            "critical": true,
+            "document_id": "patent/US11436615B2/en"
+        },
+        {
+            "date": "2020-09-22",
+            "title": "Assigned to ANCHAIN.AI",
+            "type": "reassignment",
+            "assignee_search": "ANCHAIN.AI",
+            "description": [
+                "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                "Assignors: Fang, Chunsheng Victor, QUAN, WEI, WU, BEN BINYI"
+            ]
+        },
+        {
+            "date": "2021-06-24",
+            "title": "Priority to US17/357,029",
+            "type": "priority",
+            "document_id": "patent/US11907955B2/en"
+        },
+        {
+            "date": "2022-03-03",
+            "title": "Publication of US20220067752A1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US20220067752A1/en"
+        },
+        {
+            "date": "2022-09-06",
+            "title": "Application granted",
+            "type": "granted",
+            "critical": true
+        },
+        {
+            "date": "2022-09-06",
+            "title": "Publication of US11436615B2",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US11436615B2/en"
+        },
+        {
+            "date": "Status",
+            "title": "Active",
+            "type": "legal-status",
+            "critical": true,
+            "current": true
+        },
+        {
+            "date": "2041-04-24",
+            "title": "Adjusted expiration",
+            "type": "legal-status",
+            "critical": true
+        }
+    ],
+    "external_links": [
+        {
+            "text": "USPTO",
+            "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11436615.PN."
+        },
+        {
+            "text": "USPTO PatentCenter",
+            "link": "https://patentcenter.uspto.gov/applications/17006431"
+        },
+        {
+            "text": "USPTO Assignment",
+            "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=11436615"
+        },
+        {
+            "text": "Espacenet",
+            "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=11436615B2&KC=B2&FT=D"
+        },
+        {
+            "text": "Global Dossier",
+            "link": "https://globaldossier.uspto.gov/result/application/US/17006431/1"
+        },
+        {
+            "text": "Discuss",
+            "link": "https://patents.stackexchange.com/questions/tagged/US11436615"
+        }
+    ],
+    "images": [
+        "https://patentimages.storage.googleapis.com/90/20/d5/e07f6b7f0b7348/US11436615-20220906-D00000.png",
+        "https://patentimages.storage.googleapis.com/ad/3a/1c/96c59586751a53/US11436615-20220906-D00001.png",
+        "https://patentimages.storage.googleapis.com/e3/c2/95/8c19be0c8ad228/US11436615-20220906-D00002.png",
+        "https://patentimages.storage.googleapis.com/16/09/db/47054847d9bd63/US11436615-20220906-D00003.png",
+        "https://patentimages.storage.googleapis.com/d1/d6/92/2b771fe0f84821/US11436615-20220906-D00004.png",
+        "https://patentimages.storage.googleapis.com/87/19/a5/7524cf962cac0a/US11436615-20220906-D00005.png",
+        "https://patentimages.storage.googleapis.com/50/c8/e4/b74af2e3085954/US11436615-20220906-D00006.png",
+        "https://patentimages.storage.googleapis.com/7b/e8/73/a0e62e10eda3f5/US11436615-20220906-D00007.png",
+        "https://patentimages.storage.googleapis.com/78/53/7f/b4ae3cc8b58bbd/US11436615-20220906-D00008.png",
+        "https://patentimages.storage.googleapis.com/8b/56/b5/86c68ef2739b8e/US11436615-20220906-D00009.png",
+        "https://patentimages.storage.googleapis.com/91/db/f5/cf7818090ac395/US11436615-20220906-D00010.png",
+        "https://patentimages.storage.googleapis.com/7e/11/36/c4f7a451b7bca6/US11436615-20220906-D00011.png",
+        "https://patentimages.storage.googleapis.com/0d/47/fb/76366879deaf69/US11436615-20220906-D00012.png",
+        "https://patentimages.storage.googleapis.com/1b/1b/2a/a666ccee785d84/US11436615-20220906-D00013.png",
+        "https://patentimages.storage.googleapis.com/1b/c2/e9/62210ccb5f16bb/US11436615-20220906-D00014.png",
+        "https://patentimages.storage.googleapis.com/40/6a/c9/2121636980ffe5/US11436615-20220906-D00015.png",
+        "https://patentimages.storage.googleapis.com/5d/b6/d6/9f6a4f915f4356/US11436615-20220906-D00016.png",
+        "https://patentimages.storage.googleapis.com/68/89/04/39dd0313ea5cf1/US11436615-20220906-D00017.png"
+    ],
+    "classifications": [
+        {
+            "code": "G06Q30/0185",
+            "description": "Product, service or business identity fraud",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06F16/2379",
+            "description": "Updates performed during online database operations; commit processing",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N20/00",
+            "description": "Machine learning",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/08",
+            "description": "Learning methods",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q10/10",
+            "description": "Office automation; Time management",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/0655",
+            "description": "Private payment circuits, e.g. involving electronic currency used among participants of a common payment scheme using e-cash e-cash managed centrally",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/3674",
+            "description": "Payment architectures, schemes or protocols characterised by the use of specific devices or networks using electronic wallets or electronic money safes involving electronic purses or money safes involving authentication",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/4016",
+            "description": "Transaction verification involving fraud or risk level assessment in transaction processing",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/405",
+            "description": "Establishing or using transaction specific rules",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q40/04",
+            "description": "Trading; Exchange, e.g. stocks, commodities, derivatives or currency exchange",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q50/265",
+            "description": "Personal security, identity or safety",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H04L63/1425",
+            "description": "Traffic logging, e.g. anomaly detection",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H04L63/20",
+            "description": "Network architectures or network communication protocols for network security for managing network security; network security policies in general",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H04L9/50",
+            "description": "Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols using hash chains, e.g. blockchains or hash trees",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/048",
+            "description": "Activation functions",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/126",
+            "description": "Evolutionary algorithms, e.g. genetic algorithms or genetic programming",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q2220/00",
+            "description": "Business processing using cryptography",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H04L63/0236",
+            "description": "Filtering by address, protocol, port number or service, e.g. IP-address or URL",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H04L63/101",
+            "description": "Access control lists [ACL]",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        }
+    ],
+    "abstract": "A method involves receiving digital on blockchain information and digital off blockchain information. The digital data from the digital on blockchain information and the digital off blockchain information is extracted. The entity knowledge base engine contextualizes the relationships based on the digital data and the digital off blockchain information and the digital on blockchain information. The risk classification engine analyzes the digital data and transforms the digital data to an identified behavior category. The risk scoring regression engine analyzes the classified risk data and assigns a risk score to each classified risk data. The risk policy engine analyzes the classified risk data and determines if any deviations from rules or standards have or will occur. The security control system takes an action on the digital on blockchain information and digital off blockchain information based on the assigned risk score and any deviations from rules or standards.",
+    "description_link": "https://serpapi.com/searches/688f8cfe6e22378fd27653fa/google_patents_details/description.html",
+    "claims": [
+        "1. A method comprising:\nreceiving digital on blockchain information and digital off blockchain information, wherein the receiving includes a digital asset intake engine;\nextracting digital data from the digital on blockchain information and the digital off blockchain information;\ncontextualizing relationships based on the digital data and the digital off blockchain information and the digital on blockchain information, the contextualizing including an entity knowledge base;\nanalyzing the digital data and transforming the digital data to an identified behavior category, thereby creating classified risk data, wherein the analyzing and transforming includes a risk classification engine including a machine learning model;\nanalyzing the classified risk data and assigning a risk score to each classified risk data, wherein the analyzing and assigning includes a risk scoring regression engine and machine learning;\nanalyzing the classified risk data and determining if any deviations from rules or standards have or will occur, wherein the analyzing and determining includes a risk policy engine that is a rules based engine; and\ntaking an action on the digital on blockchain information and digital off blockchain information based on the assigned risk score and any deviations from rules or standards, wherein taking the action includes a security control system, wherein the action includes:\non condition the risk score is high:\nat least one of blocking a blockchain transaction, freezing user assets, or suspending user accounts related to the blockchain transaction; and\n\non condition the risk score is normal:\napproving the blockchain transaction.",
+        "2. The method of claim 1, wherein the digital on blockchain information and digital off blockchain information includes:\na blockchain address;\na transaction identification;\nuser information;\ndevice information;\na device IP address;\na business type; and\nan exchange or custodian distinction.",
+        "3. The method of claim 1, wherein the entity knowledge base includes:\na blacklist intelligence database;\na device intelligence database;\na computer network intelligence database; and\na blockchain ledger.",
+        "4. The method of claim 1, wherein the risk classification engine includes:\na decision tree classification model.",
+        "5. The method of claim 1, wherein the machine learning model includes at least one of:\na machine learning classification model; and\na risk score model to calculate the risk score.",
+        "6. The method of claim 5, wherein the machine learning classification model is an AutoML model comprising:\npreparing a labeled dataset;\npre-processing the labeled dataset;\nextracting AutoML features;\ntransforming AutoML features;\ntraining an AutoML model;\nevaluating metrics of the AutoML model;\nselecting a best machine learning model using an automated selection process; and\nserializing the best machine learning model.",
+        "7. The method of claim 6, wherein the AutoML model is at least one of:\nan offline training pipeline including:\nfeature extraction and transformation;\nparallel model training;\nmodel metric evaluation; and\nmodel selection;\n\nan online prediction pipeline in a cloud or a decentralized blockchain node, the online prediction pipeline including:\nfeature extraction and transformation;\nmodel prediction based on one or more models; and\nresult formatting.",
+        "8. The method of claim 1, wherein the machine learning classification model is a behavior based model comprising:\nrecognizing behavioral characteristics in at least one feature category for an entity, wherein the feature categories include:\na statistics feature category;\na topology feature category;\na temporal feature category;\na linkage feature category;\na derived feature category; and\na sequential feature category;\n\nidentifying at least one of:\nexchange behavioral wallet addresses using exchange behavior characteristics;\na money laundering behavioral address;\na bot behavioral address; and\na bad actor group cluster.",
+        "9. The method of claim 5, wherein the machine learning classification model is a regression model for the risk score, the regression model including:\ninput features comprising at least one of:\nblockchain transactions including blockchain addresses; and\nexternal information related to blockchain addresses;\n\nparameters including a time decaying factor lambda;\noutput including:\nthe risk scores of the blockchain addresses;\nreasons for the risk scores; and\na suspicious transaction summary.",
+        "10. A risk management system for blockchain digital assets, the system comprising:\na digital asset intake engine, configured to receive digital on blockchain information and digital off blockchain information, and extract digital data from the digital on blockchain information and the digital off blockchain information;\nan entity knowledge base engine configured to contextualize relationships based on the digital data and the digital off blockchain information and the digital on blockchain information;\na risk classification engine including a machine learning model, the risk classification engine configured to analyze the digital data and transform the digital data to an identified behavior category, thereby creating classified risk data;\na risk scoring regression engine including machine learning, the risk scoring regression engine configured to analyze the classified risk data and assign a risk score to each classified risk data;\na risk policy engine, wherein the risk policy engine is a rules based engine; and\na security control system configured to take an action on the digital on blockchain information and digital off blockchain information based on the assigned risk score, wherein the security control system is configured to:\non condition the risk score is high:\nat least one of block a blockchain transaction, freeze user assets, or suspend user accounts related to the blockchain transaction; and\n\non condition the risk score is normal:\napprove the blockchain transaction.",
+        "11. The risk management system of claim 10, wherein the digital asset intake engine includes:\na blockchain address;\na transaction identification;\nuser information;\ndevice information;\na device IP address;\na business type; and\nan exchange or custodian distinction.",
+        "12. The risk management system of claim 10, wherein the entity knowledge base includes:\na blacklist intelligence database;\na device intelligence database;\na computer network intelligence database; and\na blockchain ledger.",
+        "13. The risk management system of claim 10, wherein the entity knowledge base engine updates the digital on blockchain information and digital off blockchain information upon receiving threat intelligence to include a reentrancy vulnerability pattern.",
+        "14. The risk management system of claim 10, wherein the risk classification engine includes:\na decision tree classification model.",
+        "15. The risk management system of claim 10, wherein the risk scoring regression engine includes:\na machine learning classification model; and\na risk score model to calculate the risk score.",
+        "16. The risk management system of claim 10, wherein the machine learning model includes at least one of:\na machine learning classification model; and\na risk score model to calculate the risk score.",
+        "17. The risk management system of claim 16, wherein the machine learning classification model is an AutoML model comprising:\npreparing a labeled dataset;\npre-processing the labeled dataset;\nextracting AutoML features;\ntransforming AutoML features;\ntraining an AutoML model;\nevaluating metrics of the AutoML model;\nselecting a best machine learning model using an automated selection process; and\nserializing the best machine learning model.",
+        "18. The risk management system of claim 17, wherein the AutoML model is at least one of:\nan offline training pipeline including:\nfeature extraction and transformation;\nparallel model training;\nmodel metric evaluation; and\nmodel selection;\n\nan online prediction pipeline in a cloud or a decentralized blockchain node, the online prediction pipeline including:\nfeature extraction and transformation;\nmodel prediction based on one or more models; and\nresult formatting.",
+        "19. The risk management system of claim 10, wherein the machine learning classification model is a behavior based model comprising:\nrecognizing behavioral characteristics in at least one feature category for an entity, wherein the feature categories include:\na statistics feature category;\na topology feature category;\na temporal feature category;\na linkage feature category;\na derived feature category; and\na sequential feature category;\n\nidentifying at least one of:\nexchange behavioral wallet addresses using exchange behavior characteristics;\na mixer behavioral address;\na tumbler behavioral address;\na money laundering behavioral address;\na bot behavioral address; and\na bad actor group cluster.",
+        "20. The risk management system of claim 10, wherein the machine learning classification model is a regression model for the risk score, the regression model including:\ninput features comprising at least one of:\nblockchain transactions including blockchain addresses; and\nexternal information related to blockchain addresses;\n\nparameters including a time decaying factor lambda;\noutput including:\nthe risk scores of the blockchain addresses;\nreasons for the risk scores; and\na suspicious transaction summary."
+    ],
+    "child_applications": [
+        {
+            "application_number": "US17/357,029",
+            "relation_type": "Continuation-In-Part",
+            "representative_publication": "US11907955B2",
+            "primary_language": "en",
+            "priority_date": "2020-08-28",
+            "filing_date": "2021-06-24",
+            "title": "System and method for blockchain automatic tracing of money flow using artificial intelligence"
+        }
+    ],
+    "priority_applications": [
+        {
+            "application_number": "US17/006,431",
+            "representative_publication": "US11436615B2",
+            "primary_language": "en",
+            "priority_date": "2020-08-28",
+            "filing_date": "2020-08-28",
+            "title": "System and method for blockchain transaction risk management using machine learning"
+        },
+        {
+            "application_number": "US17/357,029",
+            "representative_publication": "US11907955B2",
+            "primary_language": "en",
+            "priority_date": "2020-08-28",
+            "filing_date": "2021-06-24",
+            "title": "System and method for blockchain automatic tracing of money flow using artificial intelligence"
+        }
+    ],
+    "applications_claiming_priority": [
+        {
+            "application_number": "US17/006,431",
+            "representative_publication": "US11436615B2",
+            "primary_language": "en",
+            "priority_date": "2020-08-28",
+            "filing_date": "2020-08-28",
+            "title": "System and method for blockchain transaction risk management using machine learning"
+        }
+    ],
+    "family_id": "80358708",
+    "patent_citations": {
+        "original": [
+            {
+                "publication_number": "US20210042421A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-08-05",
+                "publication_date": "2021-02-11",
+                "assignee_original": "Yue Li",
+                "title": "Blockchain security system",
+                "patent_id": "patent/US20210042421A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210042421A1%2Fen"
+            },
+            {
+                "publication_number": "US20210110047A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-10-15",
+                "publication_date": "2021-04-15",
+                "assignee_original": "Anchain.ai Inc.",
+                "title": "Continuous vulnerability management system for blockchain smart contract based digital asset using sandbox and artificial intelligence",
+                "patent_id": "patent/US20210110047A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210110047A1%2Fen"
+            },
+            {
+                "publication_number": "US20210182859A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-12-17",
+                "publication_date": "2021-06-17",
+                "assignee_original": "Accenture Global Solutions Limited",
+                "title": "System And Method For Modifying An Existing Anti-Money Laundering Rule By Reducing False Alerts",
+                "patent_id": "patent/US20210182859A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210182859A1%2Fen"
+            },
+            {
+                "publication_number": "US20210390549A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-06-15",
+                "publication_date": "2021-12-16",
+                "assignee_original": "Capital One Services, Llc",
+                "title": "Systems and methods for building blockchains for verifying assets for smart contracts",
+                "patent_id": "patent/US20210390549A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210390549A1%2Fen"
+            }
+        ]
+    },
+    "non_patent_citations": [
+        {
+            "title": "Machine Learning in/for Blockchain: Future and Challenges Chen."
+        }
+    ],
+    "cited_by": {
+        "original": [
+            {
+                "publication_number": "US20210097383A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-09-30",
+                "publication_date": "2021-04-01",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Combined Data Pre-Process And Architecture Search For Deep Learning Models",
+                "patent_id": "patent/US20210097383A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210097383A1%2Fen"
+            }
+        ],
+        "family_to_family": [
+            {
+                "publication_number": "US11507540B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-02-15",
+                "publication_date": "2022-11-22",
+                "assignee_original": "EMC IP Holding Company LLC",
+                "title": "Decentralized file system and message bus architecture for processing training sets in multi-cloud computing environment",
+                "patent_id": "patent/US11507540B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11507540B1%2Fen"
+            },
+            {
+                "publication_number": "US11569981B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-08-28",
+                "publication_date": "2023-01-31",
+                "assignee_original": "Amazon Technologies, Inc.",
+                "title": "Blockchain network based on machine learning-based proof of work",
+                "patent_id": "patent/US11569981B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11569981B1%2Fen"
+            },
+            {
+                "publication_number": "US11526614B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-10-15",
+                "publication_date": "2022-12-13",
+                "assignee_original": "Anchain.ai Inc.",
+                "title": "Continuous vulnerability management system for blockchain smart contract based digital asset using sandbox and artificial intelligence",
+                "patent_id": "patent/US11526614B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11526614B2%2Fen"
+            },
+            {
+                "publication_number": "US12242980B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-09-09",
+                "publication_date": "2025-03-04",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Machine learning with multiple constraints",
+                "patent_id": "patent/US12242980B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12242980B2%2Fen"
+            },
+            {
+                "publication_number": "US12131234B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-10-28",
+                "publication_date": "2024-10-29",
+                "assignee_original": "Capital One Services, Llc",
+                "title": "Code generation for deployment of a machine learning model",
+                "patent_id": "patent/US12131234B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12131234B2%2Fen"
+            },
+            {
+                "publication_number": "US20220164798A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-11-20",
+                "publication_date": "2022-05-26",
+                "assignee_original": "Royal Bank Of Canada",
+                "title": "System and method for detecting fraudulent electronic transactions",
+                "patent_id": "patent/US20220164798A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220164798A1%2Fen"
+            },
+            {
+                "publication_number": "US20220237502A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-01-25",
+                "publication_date": "2022-07-28",
+                "assignee_original": "Paypal, Inc.",
+                "title": "Systems and methods for training and modifying a computer-based model to perform classification",
+                "patent_id": "patent/US20220237502A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220237502A1%2Fen"
+            },
+            {
+                "publication_number": "US11853278B2",
+                "primary_language": "en",
+                "priority_date": "2021-06-10",
+                "publication_date": "2023-12-26",
+                "assignee_original": "Jpmorgan Chase Bank , N.A.",
+                "title": "Systems and methods for combining graph embedding and random forest classification for improving classification of distributed ledger activities",
+                "patent_id": "patent/US11853278B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11853278B2%2Fen"
+            },
+            {
+                "publication_number": "US11943244B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-06-22",
+                "publication_date": "2024-03-26",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Anomaly detection over high-dimensional space",
+                "patent_id": "patent/US11943244B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11943244B2%2Fen"
+            },
+            {
+                "publication_number": "US12259976B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-11-23",
+                "publication_date": "2025-03-25",
+                "assignee_original": "HackerStrike Corporation",
+                "title": "Detecting ransomware attacks in a device based on device behavior",
+                "patent_id": "patent/US12259976B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12259976B1%2Fen"
+            },
+            {
+                "publication_number": "CN114581244A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-03-09",
+                "publication_date": "2022-06-03",
+                "assignee_original": "\u6df1\u5733\u6280\u672f\u5927\u5b66",
+                "title": "Dynamic intelligent delivery and review method based on block chain intelligent contract and related device",
+                "patent_id": "patent/CN114581244A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114581244A%2Fen"
+            },
+            {
+                "publication_number": "US12182807B2",
+                "primary_language": "en",
+                "priority_date": "2022-03-14",
+                "publication_date": "2024-12-31",
+                "assignee_original": "Paypal, Inc.",
+                "title": "Interface for constructing smart protocols for execution on blockchain platforms",
+                "patent_id": "patent/US12182807B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12182807B2%2Fen"
+            },
+            {
+                "publication_number": "US12182800B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-06-23",
+                "publication_date": "2024-12-31",
+                "assignee_original": "The Toronto-Dominion Bank",
+                "title": "API for incremental and periodic crypto asset transfer",
+                "patent_id": "patent/US12182800B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12182800B2%2Fen"
+            },
+            {
+                "publication_number": "US20230419326A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-06-28",
+                "publication_date": "2023-12-28",
+                "assignee_original": "Ancilia, Inc.",
+                "title": "Security detection for blockchains",
+                "patent_id": "patent/US20230419326A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230419326A1%2Fen"
+            },
+            {
+                "publication_number": "CN115130883A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-07-05",
+                "publication_date": "2022-09-30",
+                "assignee_original": "\u5317\u4eac\u54c8\u5e0c\u6cf0\u683c\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Address credit risk assessment method and system based on block chain",
+                "patent_id": "patent/CN115130883A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115130883A%2Fen"
+            },
+            {
+                "publication_number": "CN114943309B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-07-21",
+                "publication_date": "2022-10-21",
+                "assignee_original": "\u4eba\u6c11\u6cd5\u9662\u4fe1\u606f\u6280\u672f\u670d\u52a1\u4e2d\u5fc3",
+                "title": "Method for constructing abnormity diagnosis model of block chain and abnormity diagnosis method",
+                "patent_id": "patent/CN114943309B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114943309B%2Fen"
+            },
+            {
+                "publication_number": "WO2024081977A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-10-11",
+                "publication_date": "2024-04-18",
+                "assignee_original": "Mnthali Bado Mtazama Jembemziro",
+                "title": "A risk management system",
+                "patent_id": "patent/WO2024081977A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024081977A1%2Fen"
+            },
+            {
+                "publication_number": "CN115643267B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-10-12",
+                "publication_date": "2024-11-12",
+                "assignee_original": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66",
+                "title": "Method and blockchain system for dynamically improving blockchain performance based on network trust model",
+                "patent_id": "patent/CN115643267B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115643267B%2Fen"
+            },
+            {
+                "publication_number": "WO2024182685A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-03-02",
+                "publication_date": "2024-09-06",
+                "assignee_original": "Fluence Energy, Llc",
+                "title": "Systems and methods for using machine learning to predict critical constraints",
+                "patent_id": "patent/WO2024182685A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024182685A1%2Fen"
+            },
+            {
+                "publication_number": "CN116405187B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-04-21",
+                "publication_date": "2024-04-09",
+                "assignee_original": "\u77f3\u5bb6\u5e84\u94c1\u9053\u5927\u5b66",
+                "title": "Distributed node intrusion situation sensing method based on block chain",
+                "patent_id": "patent/CN116405187B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116405187B%2Fen"
+            },
+            {
+                "publication_number": "CN116433333B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-04-27",
+                "publication_date": "2024-01-30",
+                "assignee_original": "\u6b66\u6c49\u548c\u60a6\u6570\u5b57\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Digital commodity transaction risk prevention and control method and device based on machine learning",
+                "patent_id": "patent/CN116433333B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116433333B%2Fen"
+            },
+            {
+                "publication_number": "CN116402512B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-05-31",
+                "publication_date": "2023-08-22",
+                "assignee_original": "\u65e0\u9521\u9521\u5546\u94f6\u884c\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "title": "Account security check management method based on artificial intelligence",
+                "patent_id": "patent/CN116402512B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116402512B%2Fen"
+            },
+            {
+                "publication_number": "US12363150B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-06-13",
+                "publication_date": "2025-07-15",
+                "assignee_original": "Bank Of America Corporation",
+                "title": "System and method for secured data analysis and synthetic identity detection in a distributed ledger network",
+                "patent_id": "patent/US12363150B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12363150B2%2Fen"
+            },
+            {
+                "publication_number": "CN117196800A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-06-20",
+                "publication_date": "2023-12-08",
+                "assignee_original": "\u56db\u5ddd\u4ed5\u8679\u817e\u98de\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+                "title": "Digital management method for staff behaviors of banking outlets",
+                "patent_id": "patent/CN117196800A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117196800A%2Fen"
+            },
+            {
+                "publication_number": "CN116502277B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-06-30",
+                "publication_date": "2024-03-26",
+                "assignee_original": "\u4e2d\u79d1\u4e50\u7ea6\u5065\u5eb7\u79d1\u6280(\u6df1\u5733)\u6709\u9650\u516c\u53f8",
+                "title": "Medical data safety processing method, system and device based on blockchain",
+                "patent_id": "patent/CN116502277B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116502277B%2Fen"
+            },
+            {
+                "publication_number": "CN116980202B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-07-27",
+                "publication_date": "2023-12-26",
+                "assignee_original": "\u5e7f\u5dde\u5c1a\u5168\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+                "title": "Network security operation and maintenance monitoring method and system",
+                "patent_id": "patent/CN116980202B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116980202B%2Fen"
+            },
+            {
+                "publication_number": "US20250078081A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-09-05",
+                "publication_date": "2025-03-06",
+                "assignee_original": "Mastercard International Incorporated",
+                "title": "Method and system for cryptocurrency fraud detection using unsupervised domain adaption",
+                "patent_id": "patent/US20250078081A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250078081A1%2Fen"
+            },
+            {
+                "publication_number": "CN117238458B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-09-14",
+                "publication_date": "2024-04-05",
+                "assignee_original": "\u5e7f\u4e1c\u7701\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662\uff08\u5e7f\u4e1c\u7701\u536b\u751f\u5e94\u6025\u533b\u9662\uff09",
+                "title": "A cross-institutional collaborative platform system for critical care based on cloud computing",
+                "patent_id": "patent/CN117238458B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117238458B%2Fen"
+            },
+            {
+                "publication_number": "CN117094817B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-10-20",
+                "publication_date": "2024-02-13",
+                "assignee_original": "\u56fd\u4efb\u8d22\u4ea7\u4fdd\u9669\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "title": "Credit risk control intelligent prediction method and system",
+                "patent_id": "patent/CN117094817B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117094817B%2Fen"
+            },
+            {
+                "publication_number": "CN117151882B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-10-30",
+                "publication_date": "2024-05-07",
+                "assignee_original": "\u56fd\u7f51\u5929\u6d25\u5e02\u7535\u529b\u516c\u53f8\u7ecf\u6d4e\u6280\u672f\u7814\u7a76\u9662",
+                "title": "A risk assessment method and system based on multi-variety electricity trading",
+                "patent_id": "patent/CN117151882B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117151882B%2Fen"
+            },
+            {
+                "publication_number": "CN117787792B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-12-27",
+                "publication_date": "2024-06-21",
+                "assignee_original": "\u6c5f\u82cf\u79d1\u4f73\u8f6f\u4ef6\u5f00\u53d1\u6709\u9650\u516c\u53f8",
+                "title": "Medical instrument quality safety risk supervision-based method and system",
+                "patent_id": "patent/CN117787792B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117787792B%2Fen"
+            },
+            {
+                "publication_number": "CN118536609B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-06-05",
+                "publication_date": "2024-12-10",
+                "assignee_original": "\u6b66\u6c49\u4e2d\u5730\u5927\u667a\u6167\u57ce\u5e02\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+                "title": "A method and system for configuring an intelligent rule engine",
+                "patent_id": "patent/CN118536609B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118536609B%2Fen"
+            },
+            {
+                "publication_number": "CN118395505B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-06-25",
+                "publication_date": "2024-10-18",
+                "assignee_original": "\u6df1\u5733\u70b9\u7b79\u519c\u4e1a\u4f9b\u5e94\u94fe\u6709\u9650\u516c\u53f8",
+                "title": "Construction method and system based on agricultural product information database",
+                "patent_id": "patent/CN118395505B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118395505B%2Fen"
+            },
+            {
+                "publication_number": "CN118917945B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-07-17",
+                "publication_date": "2025-02-07",
+                "assignee_original": "\u4e0a\u6d77\u5e02\u5927\u6570\u636e\u4e2d\u5fc3",
+                "title": "Method for designing government chain supervision intelligent contract under AI drive and application",
+                "patent_id": "patent/CN118917945B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118917945B%2Fen"
+            },
+            {
+                "publication_number": "CN118898488B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-07-18",
+                "publication_date": "2025-06-13",
+                "assignee_original": "\u6df1\u5733\u7075\u52a8\u521b\u65b0\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+                "title": "Third-party payment security authentication method and system based on blockchain",
+                "patent_id": "patent/CN118898488B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118898488B%2Fen"
+            },
+            {
+                "publication_number": "CN119067767A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-07-31",
+                "publication_date": "2024-12-03",
+                "assignee_original": "\u4e2d\u91d1\u540c\u76db\u5546\u4e1a\u4fdd\u7406\u6709\u9650\u516c\u53f8",
+                "title": "Factoring fund information security management method and system",
+                "patent_id": "patent/CN119067767A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119067767A%2Fen"
+            },
+            {
+                "publication_number": "CN118586046B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-08-05",
+                "publication_date": "2024-12-10",
+                "assignee_original": "\u548c\u749e\u601d\u5fb7\u80fd\u6e90\u987e\u95ee(\u5c71\u4e1c)\u6709\u9650\u516c\u53f8",
+                "title": "Green energy transaction data monitoring system based on blockchain",
+                "patent_id": "patent/CN118586046B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118586046B%2Fen"
+            },
+            {
+                "publication_number": "CN119648130B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-11-22",
+                "publication_date": "2025-07-08",
+                "assignee_original": "\u897f\u5b89\u5e7f\u6797\u6c47\u667a\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "A software development full process supervision system",
+                "patent_id": "patent/CN119648130B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119648130B%2Fen"
+            }
+        ]
+    },
+    "similar_documents": [
+        {
+            "is_patent": true,
+            "publication_number": "US11436615B2",
+            "primary_language": "en",
+            "publication_date": "2022-09-06",
+            "title": "System and method for blockchain transaction risk management using machine learning",
+            "patent_id": "patent/US11436615B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11436615B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11907955B2",
+            "primary_language": "en",
+            "publication_date": "2024-02-20",
+            "title": "System and method for blockchain automatic tracing of money flow using artificial intelligence",
+            "patent_id": "patent/US11907955B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11907955B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20210248612A1",
+            "primary_language": "en",
+            "publication_date": "2021-08-12",
+            "title": "Method of operating artificial intelligence machines to improve predictive model training and performance",
+            "patent_id": "patent/US20210248612A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210248612A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "16704312373084009468",
+            "scholar_authors": "Savani et al.",
+            "publication_date": "2020",
+            "title": "Intra-processing methods for debiasing neural networks",
+            "patent_id": "scholar/16704312373084009468",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16704312373084009468"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20210027182A1",
+            "primary_language": "en",
+            "publication_date": "2021-01-28",
+            "title": "Automated machine learning systems and methods",
+            "patent_id": "patent/US20210027182A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210027182A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "EP4236197A2",
+            "primary_language": "en",
+            "publication_date": "2023-08-30",
+            "title": "Micro-loan system",
+            "patent_id": "patent/EP4236197A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4236197A2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11928049B2",
+            "primary_language": "en",
+            "publication_date": "2024-03-12",
+            "title": "Blockchain system for source code testing and script generation with artificial intelligence",
+            "patent_id": "patent/US11928049B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11928049B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240346151A1",
+            "primary_language": "en",
+            "publication_date": "2024-10-17",
+            "title": "Systems, methods, and apparatuses for detecting and implementing vulnerability fixes in an electronic environment",
+            "patent_id": "patent/US20240346151A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240346151A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "8343757323668053493",
+            "scholar_authors": "Li et al.",
+            "publication_date": "2020",
+            "title": "Explain graph neural networks to understand weighted graph features in node classification",
+            "patent_id": "scholar/8343757323668053493",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8343757323668053493"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "13081575328013543167",
+            "scholar_authors": "Lv et al.",
+            "publication_date": "2019",
+            "title": "Detecting fraudulent bank account based on convolutional neural network with heterogeneous data",
+            "patent_id": "scholar/13081575328013543167",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13081575328013543167"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "5640220909527249140",
+            "scholar_authors": "Sawant et al.",
+            "publication_date": "2013",
+            "title": "Study of Data Mining Techniques used for Financial Data Analysis",
+            "patent_id": "scholar/5640220909527249140",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5640220909527249140"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20220318270A1",
+            "primary_language": "en",
+            "publication_date": "2022-10-06",
+            "title": "Artificial intelligence (ai)-based blockchain management",
+            "patent_id": "patent/US20220318270A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220318270A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20220318648A1",
+            "primary_language": "en",
+            "publication_date": "2022-10-06",
+            "title": "Artificial intelligence (ai)-based blockchain management",
+            "patent_id": "patent/US20220318648A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220318648A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250055878A1",
+            "primary_language": "en",
+            "publication_date": "2025-02-13",
+            "title": "Systems and methods for identifying electronic accounts based on near real time machine learning in an electronic network",
+            "patent_id": "patent/US20250055878A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250055878A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12332771B2",
+            "primary_language": "en",
+            "publication_date": "2025-06-17",
+            "title": "System for automated intelligent testing of desktop applications through machine learning",
+            "patent_id": "patent/US12332771B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12332771B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250013741A1",
+            "primary_language": "en",
+            "publication_date": "2025-01-09",
+            "title": "Systems and methods for machine interpretation of security data via dynamic constraint specification matrix",
+            "patent_id": "patent/US20250013741A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250013741A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "14082174980185681570",
+            "scholar_authors": "Sekhar et al.",
+            "publication_date": "2024",
+            "title": "A novel blockchain-assisted deep learning model for secure edge intelligence in IoT networks",
+            "patent_id": "scholar/14082174980185681570",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14082174980185681570"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250029106A1",
+            "primary_language": "en",
+            "publication_date": "2025-01-23",
+            "title": "Automated rule creation for fraud detection using a machine learning-driven computing framework",
+            "patent_id": "patent/US20250029106A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250029106A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12153486B2",
+            "primary_language": "en",
+            "publication_date": "2024-11-26",
+            "title": "Intelligent exception handling system within a distributed network architecture",
+            "patent_id": "patent/US12153486B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12153486B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230316282A1",
+            "primary_language": "en",
+            "publication_date": "2023-10-05",
+            "title": "Systems and methods for generating a probationary automated-decisioning workflow in a machine learning-task oriented digital threat or digital abuse mitigation system",
+            "patent_id": "patent/US20230316282A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230316282A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240113978A1",
+            "primary_language": "en",
+            "publication_date": "2024-04-04",
+            "title": "Machine learning based system(s) for network traffic discovery and routing",
+            "patent_id": "patent/US20240113978A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240113978A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240113977A1",
+            "primary_language": "en",
+            "publication_date": "2024-04-04",
+            "title": "Machine learning based system(s) for network traffic discovery and analysis",
+            "patent_id": "patent/US20240113977A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240113977A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "13585624863556013258",
+            "scholar_authors": "Jaber et al.",
+            "publication_date": "2022",
+            "title": "A model for predicting crimes using big data and neural\u2010fuzzy networks",
+            "patent_id": "scholar/13585624863556013258",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13585624863556013258"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12353355B2",
+            "primary_language": "en",
+            "publication_date": "2025-07-08",
+            "title": "Systems, methods, and apparatuses for tracking cross border data transmissions and generating a data passport entry in an electronic network",
+            "patent_id": "patent/US12353355B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12353355B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240305658A1",
+            "primary_language": "en",
+            "publication_date": "2024-09-12",
+            "title": "System and method for assessing entity security using aggregated data sources",
+            "patent_id": "patent/US20240305658A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240305658A1%2Fen"
+        }
+    ],
+    "legal_events": [
+        {
+            "date": "2020-08-28",
+            "code": "FEPP",
+            "title": "Fee payment procedure",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-09",
+            "code": "FEPP",
+            "title": "Fee payment procedure",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-22",
+            "code": "AS",
+            "title": "Assignment",
+            "attributes": [
+                {
+                    "label": "Owner name",
+                    "value": "ANCHAIN.AI, CALIFORNIA"
+                },
+                {
+                    "label": "Free format text",
+                    "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FANG, CHUNSHENG VICTOR;QUAN, WEI;WU, BEN BINYI;REEL/FRAME:053844/0218"
+                },
+                {
+                    "label": "Effective date",
+                    "value": "20200902"
+                }
+            ]
+        },
+        {
+            "date": "2022-06-22",
+            "code": "STPP",
+            "title": "Information on status: patent application and granting procedure in general",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+                }
+            ]
+        },
+        {
+            "date": "2022-07-27",
+            "code": "STPP",
+            "title": "Information on status: patent application and granting procedure in general",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+                }
+            ]
+        },
+        {
+            "date": "2022-08-17",
+            "code": "STCF",
+            "title": "Information on status: patent grant",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "PATENTED CASE"
+                }
+            ]
+        }
+    ],
+    "concepts": {
+        "match": [
+            {
+                "id": "238000000034",
+                "name": "method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 121
+            },
+            {
+                "id": "238000010801",
+                "name": "machine learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "description"
+                ],
+                "count": 128
+            },
+            {
+                "id": "230000009471",
+                "name": "action",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 33
+            },
+            {
+                "id": "238000012549",
+                "name": "training",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 40
+            },
+            {
+                "id": "230000008569",
+                "name": "process",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 39
+            },
+            {
+                "id": "238000003066",
+                "name": "decision tree",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 38
+            },
+            {
+                "id": "230000006399",
+                "name": "behavior",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 31
+            },
+            {
+                "id": "238000013145",
+                "name": "classification model",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 27
+            },
+            {
+                "id": "230000003542",
+                "name": "behavioural effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 24
+            },
+            {
+                "id": "230000009466",
+                "name": "transformation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 17
+            },
+            {
+                "id": "238000000605",
+                "name": "extraction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 14
+            },
+            {
+                "id": "230000002123",
+                "name": "temporal effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "238000004900",
+                "name": "laundering",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 9
+            },
+            {
+                "id": "238000007781",
+                "name": "pre-processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "230000001131",
+                "name": "transforming effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000011156",
+                "name": "evaluation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "239000000284",
+                "name": "extract",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "230000000903",
+                "name": "blocking effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000008014",
+                "name": "freezing",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000007710",
+                "name": "freezing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000006870",
+                "name": "function",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 42
+            },
+            {
+                "id": "238000004422",
+                "name": "calculation algorithm",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 35
+            },
+            {
+                "id": "210000002569",
+                "name": "neuron",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 19
+            },
+            {
+                "id": "238000005457",
+                "name": "optimization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 15
+            },
+            {
+                "id": "238000013459",
+                "name": "approach",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 14
+            },
+            {
+                "id": "238000012417",
+                "name": "linear regression",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "238000013528",
+                "name": "artificial neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 10
+            },
+            {
+                "id": "239000013598",
+                "name": "vector",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 10
+            },
+            {
+                "id": "238000012545",
+                "name": "processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 9
+            },
+            {
+                "id": "230000015572",
+                "name": "biosynthetic process",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "230000000694",
+                "name": "effects",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "230000001419",
+                "name": "dependent effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000009826",
+                "name": "distribution",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000003860",
+                "name": "storage",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "239000012535",
+                "name": "impurity",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "230000004044",
+                "name": "response",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "238000012360",
+                "name": "testing method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "238000004458",
+                "name": "analytical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000033228",
+                "name": "biological regulation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000006872",
+                "name": "improvement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "238000000611",
+                "name": "regression analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000008901",
+                "name": "benefit",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000012512",
+                "name": "characterization method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000002790",
+                "name": "cross-validation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000007418",
+                "name": "data mining",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000012546",
+                "name": "transfer",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000004913",
+                "name": "activation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000008859",
+                "name": "change",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000004891",
+                "name": "communication",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000001276",
+                "name": "controlling effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013461",
+                "name": "design",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000007637",
+                "name": "random forest analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000005540",
+                "name": "biological transmission",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "210000004556",
+                "name": "brain",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000004140",
+                "name": "cleaning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013135",
+                "name": "deep learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013136",
+                "name": "deep learning model",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000003993",
+                "name": "interaction",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000002427",
+                "name": "irreversible effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000012986",
+                "name": "modification",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000004048",
+                "name": "modification",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000001537",
+                "name": "neural effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000009467",
+                "name": "reduction",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000002787",
+                "name": "reinforcement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000012706",
+                "name": "support-vector machine",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013526",
+                "name": "transfer learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000001052",
+                "name": "transient effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "PCSKDXWCLQXURQ-UHFFFAOYSA-N",
+                "name": "2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanol",
+                "domain": "Chemical compound",
+                "smiles": "COC1=CC(C(O)CN)=C(OC)C=C1Br",
+                "inchi_key": "PCSKDXWCLQXURQ-UHFFFAOYSA-N",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "235000008694",
+                "name": "Humulus lupulus",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "244000024873",
+                "name": "Mentha crispa",
+                "domain": "Species",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "235000014749",
+                "name": "Mentha crispa",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012952",
+                "name": "Resampling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003044",
+                "name": "adaptive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000004075",
+                "name": "alteration",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000003491",
+                "name": "array",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000003050",
+                "name": "axon",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013476",
+                "name": "bayesian approach",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013398",
+                "name": "bayesian method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013531",
+                "name": "bayesian neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000006243",
+                "name": "chemical reaction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000003795",
+                "name": "chemical substances by application",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000004590",
+                "name": "computer program",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012885",
+                "name": "constant function",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002596",
+                "name": "correlated effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000875",
+                "name": "corresponding effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001186",
+                "name": "cumulative effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013480",
+                "name": "data collection",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000007423",
+                "name": "decrease",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000011161",
+                "name": "development",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005516",
+                "name": "engineering process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000000835",
+                "name": "fiber",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000037406",
+                "name": "food intake",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000009472",
+                "name": "formulation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000006698",
+                "name": "induction",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000002364",
+                "name": "input neuron",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012804",
+                "name": "iterative process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "208000037805",
+                "name": "labour",
+                "domain": "Diseases",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012886",
+                "name": "linear function",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012067",
+                "name": "mathematical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000002184",
+                "name": "metal",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "229910052751",
+                "name": "metal",
+                "domain": "Inorganic materials",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000000203",
+                "name": "mixture",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012544",
+                "name": "monitoring process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010606",
+                "name": "normalization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003287",
+                "name": "optical effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000013307",
+                "name": "optical fiber",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013488",
+                "name": "ordinary least square regression",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008520",
+                "name": "organization",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000004205",
+                "name": "output neuron",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010238",
+                "name": "partial least squares regression",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005192",
+                "name": "partition",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000002360",
+                "name": "preparation method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003449",
+                "name": "preventive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012628",
+                "name": "principal component regression",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007639",
+                "name": "printing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000011158",
+                "name": "quantitative evaluation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001105",
+                "name": "regulatory effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003252",
+                "name": "repetitive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000011160",
+                "name": "research",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005096",
+                "name": "rolling process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010845",
+                "name": "search algorithm",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000000638",
+                "name": "solvent extraction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007619",
+                "name": "statistical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000000528",
+                "name": "statistical test",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000000225",
+                "name": "synapse",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000009897",
+                "name": "systematic effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000000844",
+                "name": "transformation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010200",
+                "name": "validation analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012795",
+                "name": "verification",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            }
+        ]
+    }
+}

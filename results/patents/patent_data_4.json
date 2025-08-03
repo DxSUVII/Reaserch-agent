@@ -1,0 +1,2678 @@
+{
+    "search_metadata": {
+        "id": "688f8cf39f0700c2336bda32",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f4b39b72be6083cb/688f8cf39f0700c2336bda32.json",
+        "created_at": "2025-08-03 16:23:15 UTC",
+        "processed_at": "2025-08-03 16:23:15 UTC",
+        "google_patents_details_url": "https://patents.google.com/patent/US20230316076A1/en",
+        "raw_html_file": "https://serpapi.com/searches/f4b39b72be6083cb/688f8cf39f0700c2336bda32.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google_patents_details",
+        "patent_id": "patent/US20230316076A1/en"
+    },
+    "title": "Unsupervised Machine Learning System to Automate Functions On a Graph Structure",
+    "type": "patent",
+    "pdf": "https://patentimages.storage.googleapis.com/53/c0/16/c54ef6188f1fa8/US20230316076A1.pdf",
+    "publication_number": "US20230316076A1",
+    "country": "United States",
+    "prior_art_keywords": [
+        "entities",
+        "machine learning",
+        "graph",
+        "hotfile",
+        "nodes"
+    ],
+    "prior_art_date": "2018-06-12",
+    "application_number": "US18/207,861",
+    "inventors": [
+        {
+            "name": "Ronnie J. Morris",
+            "link": "https://patents.google.com/?inventor=Ronnie+J.+Morris",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ronnie+J.+Morris"
+        },
+        {
+            "name": "Dana M. Pusey-Conlin",
+            "link": "https://patents.google.com/?inventor=Dana+M.+Pusey-Conlin",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dana+M.+Pusey-Conlin"
+        },
+        {
+            "name": "Lorraine C. Edkin",
+            "link": "https://patents.google.com/?inventor=Lorraine+C.+Edkin",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lorraine+C.+Edkin"
+        },
+        {
+            "name": "Scott A. Sims",
+            "link": "https://patents.google.com/?inventor=Scott+A.+Sims",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Scott+A.+Sims"
+        },
+        {
+            "name": "Joel Filliben",
+            "link": "https://patents.google.com/?inventor=Joel+Filliben",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joel+Filliben"
+        },
+        {
+            "name": "Margaret A. Payne",
+            "link": "https://patents.google.com/?inventor=Margaret+A.+Payne",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Margaret+A.+Payne"
+        },
+        {
+            "name": "Craig Douglas Widmann",
+            "link": "https://patents.google.com/?inventor=Craig+Douglas+Widmann",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Craig+Douglas+Widmann"
+        },
+        {
+            "name": "Eren Kursun",
+            "link": "https://patents.google.com/?inventor=Eren+Kursun",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eren+Kursun"
+        }
+    ],
+    "assignees": [
+        "Bank of America Corp"
+    ],
+    "priority_date": "2018-06-12",
+    "filing_date": "2023-06-09",
+    "publication_date": "2023-10-05",
+    "worldwide_applications": {
+        "2018": [
+            {
+                "filing_date": "2018-06-12",
+                "country_code": "US",
+                "application_number": "US16/006,559",
+                "document_id": "patent/US11710033B2/en",
+                "legal_status_cat": "active",
+                "legal_status": "Active"
+            }
+        ],
+        "2023": [
+            {
+                "filing_date": "2023-06-09",
+                "country_code": "US",
+                "application_number": "US18/207,861",
+                "document_id": "patent/US20230316076A1/en",
+                "legal_status_cat": "active",
+                "legal_status": "Pending",
+                "this_app": true
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": "2023-06-09",
+            "title": "Application filed by Bank of America Corp",
+            "type": "filed",
+            "critical": true,
+            "assignee_search": "Bank of America Corp"
+        },
+        {
+            "date": "2023-06-09",
+            "title": "Priority to US18/207,861",
+            "type": "priority",
+            "critical": true,
+            "document_id": "patent/US20230316076A1/en"
+        },
+        {
+            "date": "2023-06-09",
+            "title": "Assigned to BANK OF AMERICA CORPORATION",
+            "type": "reassignment",
+            "assignee_search": "BANK OF AMERICA CORPORATION",
+            "description": [
+                "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                "Assignors: PUSEY-CONLIN, DANA M., MORRIS, RONNIE J., PAYNE, MARGARET A., EDKIN, LORRAINE C., FILLIBEN, JOEL, KURSUN, EREN, SIMS, SCOTT A., WIDMANN, CRAIG DOUGLAS"
+            ]
+        },
+        {
+            "date": "2023-10-05",
+            "title": "Publication of US20230316076A1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US20230316076A1/en"
+        },
+        {
+            "date": "Status",
+            "title": "Pending",
+            "type": "legal-status",
+            "critical": true,
+            "current": true
+        }
+    ],
+    "external_links": [
+        {
+            "text": "USPTO",
+            "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20230316076.PGNR."
+        },
+        {
+            "text": "USPTO PatentCenter",
+            "link": "https://patentcenter.uspto.gov/applications/18207861"
+        },
+        {
+            "text": "USPTO Assignment",
+            "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20230316076"
+        },
+        {
+            "text": "Espacenet",
+            "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2023316076A1&KC=A1&FT=D"
+        },
+        {
+            "text": "Global Dossier",
+            "link": "https://globaldossier.uspto.gov/result/application/US/18207861/1"
+        },
+        {
+            "text": "Discuss",
+            "link": "https://patents.stackexchange.com/questions/tagged/US20230316076"
+        }
+    ],
+    "images": [
+        "https://patentimages.storage.googleapis.com/4b/d0/a2/b8fda770ddf351/US20230316076A1-20231005-D00000.png",
+        "https://patentimages.storage.googleapis.com/b6/42/fe/f69d51d0174975/US20230316076A1-20231005-D00001.png",
+        "https://patentimages.storage.googleapis.com/b9/7e/e0/ca883deda352f6/US20230316076A1-20231005-D00002.png",
+        "https://patentimages.storage.googleapis.com/39/bb/a2/b4f9730231d151/US20230316076A1-20231005-D00003.png",
+        "https://patentimages.storage.googleapis.com/c9/56/1b/9b6820994425cb/US20230316076A1-20231005-D00004.png",
+        "https://patentimages.storage.googleapis.com/5e/ba/fc/3923ebf50c210d/US20230316076A1-20231005-D00005.png",
+        "https://patentimages.storage.googleapis.com/75/1f/dc/3e0b666e90fb55/US20230316076A1-20231005-D00006.png",
+        "https://patentimages.storage.googleapis.com/aa/a8/5b/bf4c605bf009ff/US20230316076A1-20231005-D00007.png",
+        "https://patentimages.storage.googleapis.com/9f/e7/46/6e37234e1710ac/US20230316076A1-20231005-D00008.png",
+        "https://patentimages.storage.googleapis.com/eb/65/26/912b91e4178bb3/US20230316076A1-20231005-D00009.png",
+        "https://patentimages.storage.googleapis.com/ac/c7/e5/0ee244008d7181/US20230316076A1-20231005-D00010.png"
+    ],
+    "classifications": [
+        {
+            "code": "G06N3/084",
+            "description": "Backpropagation, e.g. using gradient descent",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/08",
+            "description": "Learning methods",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06F16/2291",
+            "description": "User-Defined Types; Storage management thereof",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06F16/26",
+            "description": "Visual data mining; Browsing structured data",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06F16/288",
+            "description": "Entity relationship models",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N20/20",
+            "description": "Ensemble learning",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/04",
+            "description": "Architecture, e.g. interconnection topology",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/045",
+            "description": "Combinations of networks",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/389",
+            "description": "Keeping log of transactions for guaranteeing non-repudiation of a transaction",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/4016",
+            "description": "Transaction verification involving fraud or risk level assessment in transaction processing",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06Q20/4093",
+            "description": "Monitoring of device authentication",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N3/047",
+            "description": "Probabilistic or stochastic networks",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        }
+    ],
+    "abstract": "Machine learning models, semantic networks, adaptive systems, artificial neural networks, convolutional neural networks, and other forms of knowledge processing systems are disclosed. An ensemble machine learning system is coupled to a graph module storing a graph structure, wherein a collection of entities and the relationships between those entities forms nodes and connection arcs between the various nodes. A hotfile module and hotfile propagation engine coordinate with the graph module or may be subsumed within the graph module, and implement the various hot file functionality generated by the machine learning systems.",
+    "description_link": "https://serpapi.com/searches/688f8cf39f0700c2336bda32/google_patents_details/description.html",
+    "claims": [
+        "1. A method comprising:\ndetermining data corresponding to one or more graph representations of a first plurality of entities, wherein the one or more graph representations indicate a plurality of relationships between the first plurality of entities; training, for a first entity type, a first artificial neural network for machine learning executing on one or more first computing devices, wherein the first artificial neural network comprises a plurality of nodes, and wherein the plurality of nodes are configured based on a first portion of the data corresponding to the first entity type; training, for a second entity type, a second artificial neural network for machine learning executing on the one or more first computing devices, wherein the second artificial neural network comprises a second plurality of nodes, and wherein the second plurality of nodes are configured based on a second portion of the data corresponding to the second entity type; determining a first graph representation comprising a second plurality of entities, wherein the second plurality of entities comprises a first entity corresponding to the first entity type and a second entity corresponding to the second entity type; and receiving, from the first artificial neural network and the second artificial neural network and based on the first graph representation, output indicating a modification to a hotfile, wherein the hotfile comprises a dynamic graph structure representing risk associated with transaction data.",
+        "2. The method of claim 1, wherein each of the second plurality of entities is associated with a corresponding machine learning model.",
+        "3. The method of claim 1, further comprises determining a characterization of the first graph representation comprising:\ntransmitting output from the first artificial neural network and the second artificial neural network to a third artificial neural network; and receiving, from the third artificial neural network, the modification to the hotfile.",
+        "4. The method of claim 1, wherein the modification to the hotfile is based on historical hotfile data.",
+        "5. The method of claim 1, wherein the one or more graph representations are associated with one or more transactions between at least two of the plurality of entities.",
+        "6. The method of claim 1, wherein after the modification to the hotfile, further comprising:\nadding or removing a first entity of the first plurality of entities to the hotfile; adding or removing a first relationship between two entities of the first plurality of entities to the hotfile; or modifying permissions of the hotfile associated with one or more entities of the first plurality of entities.",
+        "7. The method of claim 1, further comprising:\ndetermining a transaction between at least two entities of the first plurality of entities; and causing, based on the hotfile, rejection of the transaction.",
+        "8. An apparatus comprising:\none or more processors; and memory storing instructions that, when executed by the one or more processors, cause the apparatus to:\ndetermine data corresponding to one or more graph representations of a first plurality of entities, wherein the one or more graph representations indicate a plurality of relationships between the first plurality of entities;\ntrain, for a first entity type, a first artificial neural network for machine learning executing on one or more first computing devices, wherein the first artificial neural network comprises a plurality of nodes, and wherein the plurality of nodes are configured based on a first portion of the data corresponding to the first entity type;\ntrain, for a second entity type, a second artificial neural network for machine learning executing on the one or more first computing devices, wherein the second artificial neural network comprises a second plurality of nodes, and wherein the second plurality of nodes are configured based on a second portion of the data corresponding to the second entity type;\ndetermine a first graph representation comprising a second plurality of entities, wherein the second plurality of entities comprises a first entity corresponding to the first entity type and a second entity corresponding to the second entity type; and\nreceive, from the first artificial neural network and the second artificial neural network and based on the first graph representation, output indicating a modification to a hotfile,\nwherein the hotfile comprises a dynamic graph structure representing risk associated with transaction data.",
+        "9. The apparatus of claim 8, wherein each of the second plurality of entities is associated with a corresponding machine learning model.",
+        "10. The apparatus of claim 8, wherein the memory further stores instructions that, when executed by the one or more processors, cause the apparatus to:\ndetermine a characterization of the first graph representation comprising:\ntransmitting output from the first artificial neural network and the second artificial neural network to a third artificial neural network; and\nreceiving, from the third artificial neural network, the modification to the hotfile.",
+        "11. The apparatus of claim 8, wherein the modification to the hotfile is based on historical hotfile data.",
+        "12. The apparatus of claim 8, wherein the one or more graph representations are associated with one or more transactions between at least two of the plurality of entities.",
+        "13. The apparatus of claim 8, wherein the memory further stores instructions that, when executed by the one or more processors, cause the apparatus to:\ndetermine a transaction between at least two entities of the first plurality of entities; and cause, based on the hotfile, rejection of the transaction.",
+        "14. A system comprising:\na graph module configured to store and update a graph comprising nodes and edges, wherein each node represents an entity type, and wherein each edge represents a relationship between two nodes; \n      an unsupervised machine learning engine programmed to perform a decision-making process, the unsupervised machine learning engine further configured to:\n      train the decision-making process based on historical data; and\n      output, based on the trained decision-making process, a feature vector;\n      a hotfile module configured to:\n      receive current event data associated with the graph;\n      determine, based on the feature vector and the trained decision-making process, an action to take with respect to the graph; and\n      cause, a hotfile propagation engine, to execute the action.",
+        "15. The system of claim 14, wherein the hotfile module is further configured to:\ndetermine one or more identities of one or more entities that correspond to hotfile parameters, wherein determining the action to take is further based on the one or more identities of the one or more entities.",
+        "16. The system of claim 14, wherein training the decision-making process based on the historical data comprises configuring one or more computer nodes of the unsupervised machine learning engine without external feedback, and wherein the historical data is unlabeled.",
+        "17. The system of claim 14, wherein the action comprises one or more of:\nadding or removing a first entity that corresponds to a hotfile; adding or removing a first relationship between two entities of the one or more entities to the hotfile; or modifying permissions of nodes associated with one or more entities of the hotfile.",
+        "18. The system of claim 14, wherein the current event data is associated with a transaction between two entities of the graph.",
+        "19. The system of claim 18, wherein the historical data is associated with a plurality of transactions between entities of the graph.",
+        "20. The system of claim 14, wherein training the decision-making process based on the historical data comprises configuring one or more computer nodes of the unsupervised machine learning engine without external feedback."
+    ],
+    "parent_applications": [
+        {
+            "application_number": "US16/006,559",
+            "relation_type": "Continuation",
+            "representative_publication": "US11710033B2",
+            "primary_language": "en",
+            "priority_date": "2018-06-12",
+            "filing_date": "2018-06-12",
+            "title": "Unsupervised machine learning system to automate functions on a graph structure"
+        }
+    ],
+    "priority_applications": [
+        {
+            "application_number": "US18/207,861",
+            "representative_publication": "US20230316076A1",
+            "primary_language": "en",
+            "priority_date": "2018-06-12",
+            "filing_date": "2023-06-09",
+            "title": "Unsupervised Machine Learning System to Automate Functions On a Graph Structure"
+        }
+    ],
+    "applications_claiming_priority": [
+        {
+            "application_number": "US16/006,559",
+            "representative_publication": "US11710033B2",
+            "primary_language": "en",
+            "priority_date": "2018-06-12",
+            "filing_date": "2018-06-12",
+            "title": "Unsupervised machine learning system to automate functions on a graph structure"
+        },
+        {
+            "application_number": "US18/207,861",
+            "representative_publication": "US20230316076A1",
+            "primary_language": "en",
+            "priority_date": "2018-06-12",
+            "filing_date": "2023-06-09",
+            "title": "Unsupervised Machine Learning System to Automate Functions On a Graph Structure"
+        }
+    ],
+    "family_id": "68765114",
+    "patent_citations": {
+        "family_to_family": [
+            {
+                "publication_number": "US7171557B2",
+                "primary_language": "en",
+                "priority_date": "2001-10-31",
+                "publication_date": "2007-01-30",
+                "assignee_original": "Hewlett-Packard Development Company, L.P.",
+                "title": "System for optimized key management with file groups",
+                "patent_id": "patent/US7171557B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7171557B2%2Fen"
+            },
+            {
+                "publication_number": "US6961734B2",
+                "primary_language": "en",
+                "priority_date": "2002-01-17",
+                "publication_date": "2005-11-01",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Method, system, and program for defining asset classes in a digital library",
+                "patent_id": "patent/US6961734B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6961734B2%2Fen"
+            },
+            {
+                "publication_number": "JP4143319B2",
+                "primary_language": "en",
+                "priority_date": "2002-03-29",
+                "publication_date": "2008-09-03",
+                "assignee_original": "\u30ad\u30e4\u30ce\u30f3\u682a\u5f0f\u4f1a\u793e",
+                "title": "Recording apparatus and ink consumption management method",
+                "patent_id": "patent/JP4143319B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4143319B2%2Fen"
+            },
+            {
+                "publication_number": "US20040138975A1",
+                "primary_language": "en",
+                "priority_date": "2002-12-17",
+                "publication_date": "2004-07-15",
+                "assignee_original": "Lisa Engel",
+                "title": "System and method for preventing fraud in check orders",
+                "patent_id": "patent/US20040138975A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040138975A1%2Fen"
+            },
+            {
+                "publication_number": "US7562814B1",
+                "primary_language": "en",
+                "priority_date": "2003-05-12",
+                "publication_date": "2009-07-21",
+                "assignee_original": "Id Analytics, Inc.",
+                "title": "System and method for identity-based fraud detection through graph anomaly detection",
+                "patent_id": "patent/US7562814B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7562814B1%2Fen"
+            },
+            {
+                "publication_number": "US20070174214A1",
+                "primary_language": "en",
+                "priority_date": "2005-04-13",
+                "publication_date": "2007-07-26",
+                "assignee_original": "Robert Welsh",
+                "title": "Integrated fraud management systems and methods",
+                "patent_id": "patent/US20070174214A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070174214A1%2Fen"
+            },
+            {
+                "publication_number": "US9113001B2",
+                "primary_language": "en",
+                "priority_date": "2005-04-21",
+                "publication_date": "2015-08-18",
+                "assignee_original": "Verint Americas Inc.",
+                "title": "Systems, methods, and media for disambiguating call data to determine fraud",
+                "patent_id": "patent/US9113001B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9113001B2%2Fen"
+            },
+            {
+                "publication_number": "AU2006242555A1",
+                "primary_language": "en",
+                "priority_date": "2005-04-29",
+                "publication_date": "2006-11-09",
+                "assignee_original": "Oracle International Corporation",
+                "title": "System and method for fraud monitoring, detection, and tiered user authentication",
+                "patent_id": "patent/AU2006242555A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2006242555A1%2Fen"
+            },
+            {
+                "publication_number": "US7836065B2",
+                "primary_language": "en",
+                "priority_date": "2005-11-01",
+                "publication_date": "2010-11-16",
+                "assignee_original": "Sap Ag",
+                "title": "Searching multiple repositories in a digital information system",
+                "patent_id": "patent/US7836065B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7836065B2%2Fen"
+            },
+            {
+                "publication_number": "US8316008B1",
+                "primary_language": "en",
+                "priority_date": "2006-04-14",
+                "publication_date": "2012-11-20",
+                "assignee_original": "Mirapoint Software, Inc.",
+                "title": "Fast file attribute search",
+                "patent_id": "patent/US8316008B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8316008B1%2Fen"
+            },
+            {
+                "publication_number": "TWI334091B",
+                "primary_language": "en",
+                "priority_date": "2007-03-03",
+                "publication_date": "2010-12-01",
+                "assignee_original": "Ind Tech Res Inst",
+                "title": "Data file management and search method and system based on file attributes",
+                "patent_id": "patent/TWI334091B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI334091B%2Fen"
+            },
+            {
+                "publication_number": "US8005842B1",
+                "primary_language": "en",
+                "priority_date": "2007-05-18",
+                "publication_date": "2011-08-23",
+                "assignee_original": "Google Inc.",
+                "title": "Inferring attributes from search queries",
+                "patent_id": "patent/US8005842B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8005842B1%2Fen"
+            },
+            {
+                "publication_number": "US8296312B1",
+                "primary_language": "en",
+                "priority_date": "2008-01-14",
+                "publication_date": "2012-10-23",
+                "assignee_original": "Netapp, Inc.",
+                "title": "Search and update of attributes in file systems",
+                "patent_id": "patent/US8296312B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8296312B1%2Fen"
+            },
+            {
+                "publication_number": "US8296301B2",
+                "primary_language": "en",
+                "priority_date": "2008-01-30",
+                "publication_date": "2012-10-23",
+                "assignee_original": "Commvault Systems, Inc.",
+                "title": "Systems and methods for probabilistic data classification",
+                "patent_id": "patent/US8296301B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8296301B2%2Fen"
+            },
+            {
+                "publication_number": "US20100169137A1",
+                "primary_language": "en",
+                "priority_date": "2008-12-31",
+                "publication_date": "2010-07-01",
+                "assignee_original": "Ebay Inc.",
+                "title": "Methods and systems to analyze data using a graph",
+                "patent_id": "patent/US20100169137A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169137A1%2Fen"
+            },
+            {
+                "publication_number": "US8037113B2",
+                "primary_language": "en",
+                "priority_date": "2009-01-20",
+                "publication_date": "2011-10-11",
+                "assignee_original": "Novell, Inc.",
+                "title": "Techniques for file system searching",
+                "patent_id": "patent/US8037113B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8037113B2%2Fen"
+            },
+            {
+                "publication_number": "US9396465B2",
+                "primary_language": "en",
+                "priority_date": "2009-07-22",
+                "publication_date": "2016-07-19",
+                "assignee_original": "Visa International Service Association",
+                "title": "Apparatus including data bearing medium for reducing fraud in payment transactions using a black list",
+                "patent_id": "patent/US9396465B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9396465B2%2Fen"
+            },
+            {
+                "publication_number": "WO2011055976A2",
+                "primary_language": "en",
+                "priority_date": "2009-11-03",
+                "publication_date": "2011-05-12",
+                "assignee_original": "(\uc8fc)\ud53c\uc2a4\ud398\uc774\uc2a4",
+                "title": "Apparatus and method for managing a file in a distributed storage system",
+                "patent_id": "patent/WO2011055976A2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011055976A2%2Fen"
+            },
+            {
+                "publication_number": "US8086638B1",
+                "primary_language": "en",
+                "priority_date": "2010-03-31",
+                "publication_date": "2011-12-27",
+                "assignee_original": "Emc Corporation",
+                "title": "File handle banking to provide non-disruptive migration of files",
+                "patent_id": "patent/US8086638B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8086638B1%2Fen"
+            },
+            {
+                "publication_number": "US8762298B1",
+                "primary_language": "en",
+                "priority_date": "2011-01-05",
+                "publication_date": "2014-06-24",
+                "assignee_original": "Narus, Inc.",
+                "title": "Machine learning based botnet detection using real-time connectivity graph based traffic features",
+                "patent_id": "patent/US8762298B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8762298B1%2Fen"
+            },
+            {
+                "publication_number": "US8682764B2",
+                "primary_language": "en",
+                "priority_date": "2011-03-01",
+                "publication_date": "2014-03-25",
+                "assignee_original": "Early Warning Services, Llc",
+                "title": "System and method for suspect entity detection and mitigation",
+                "patent_id": "patent/US8682764B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8682764B2%2Fen"
+            },
+            {
+                "publication_number": "US9087088B1",
+                "primary_language": "en",
+                "priority_date": "2012-11-13",
+                "publication_date": "2015-07-21",
+                "assignee_original": "American Express Travel Related Services Company, Inc.",
+                "title": "Systems and methods for dynamic construction of entity graphs",
+                "patent_id": "patent/US9087088B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9087088B1%2Fen"
+            },
+            {
+                "publication_number": "US9747644B2",
+                "primary_language": "en",
+                "priority_date": "2013-03-15",
+                "publication_date": "2017-08-29",
+                "assignee_original": "Mastercard International Incorporated",
+                "title": "Transaction-history driven counterfeit fraud risk management solution",
+                "patent_id": "patent/US9747644B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9747644B2%2Fen"
+            },
+            {
+                "publication_number": "US10009358B1",
+                "primary_language": "en",
+                "priority_date": "2014-02-11",
+                "publication_date": "2018-06-26",
+                "assignee_original": "DataVisor Inc.",
+                "title": "Graph based framework for detecting malicious or compromised accounts",
+                "patent_id": "patent/US10009358B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10009358B1%2Fen"
+            },
+            {
+                "publication_number": "CN104951637B",
+                "primary_language": "en",
+                "priority_date": "2014-03-25",
+                "publication_date": "2018-04-03",
+                "assignee_original": "\u817e\u8baf\u79d1\u6280\uff08\u6df1\u5733\uff09\u6709\u9650\u516c\u53f8",
+                "title": "A kind of method and device for obtaining training parameter",
+                "patent_id": "patent/CN104951637B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104951637B%2Fen"
+            },
+            {
+                "publication_number": "US9547651B1",
+                "primary_language": "en",
+                "priority_date": "2014-03-31",
+                "publication_date": "2017-01-17",
+                "assignee_original": "EMC IP Holding Company LLC",
+                "title": "Establishing file relationships based on file operations",
+                "patent_id": "patent/US9547651B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9547651B1%2Fen"
+            },
+            {
+                "publication_number": "US10628826B2",
+                "primary_language": "en",
+                "priority_date": "2015-11-24",
+                "publication_date": "2020-04-21",
+                "assignee_original": "Vesta Corporation",
+                "title": "Training and selection of multiple fraud detection models",
+                "patent_id": "patent/US10628826B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10628826B2%2Fen"
+            },
+            {
+                "publication_number": "US20170169432A1",
+                "primary_language": "en",
+                "priority_date": "2015-12-15",
+                "publication_date": "2017-06-15",
+                "assignee_original": "Mastercard International Incorporated",
+                "title": "System and method of identifying baker's fraud in transactions",
+                "patent_id": "patent/US20170169432A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170169432A1%2Fen"
+            },
+            {
+                "publication_number": "US10402396B2",
+                "primary_language": "en",
+                "priority_date": "2016-10-20",
+                "publication_date": "2019-09-03",
+                "assignee_original": "Microsoft Technology Licensing, Llc",
+                "title": "Online fraud detection system in an electronic content exchange",
+                "patent_id": "patent/US10402396B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10402396B2%2Fen"
+            },
+            {
+                "publication_number": "US10282792B2",
+                "primary_language": "en",
+                "priority_date": "2016-11-30",
+                "publication_date": "2019-05-07",
+                "assignee_original": "Facebook, Inc.",
+                "title": "Joint modeling of user and content feature vector data based on third party source data",
+                "patent_id": "patent/US10282792B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10282792B2%2Fen"
+            },
+            {
+                "publication_number": "US11586960B2",
+                "primary_language": "en",
+                "priority_date": "2017-05-09",
+                "publication_date": "2023-02-21",
+                "assignee_original": "Visa International Service Association",
+                "title": "Autonomous learning platform for novel feature discovery",
+                "patent_id": "patent/US11586960B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11586960B2%2Fen"
+            },
+            {
+                "publication_number": "US10424185B2",
+                "primary_language": "en",
+                "priority_date": "2017-11-17",
+                "publication_date": "2019-09-24",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Responding to personal danger using a mobile electronic device",
+                "patent_id": "patent/US10424185B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10424185B2%2Fen"
+            },
+            {
+                "publication_number": "US20210027182A1",
+                "primary_language": "en",
+                "priority_date": "2018-03-21",
+                "publication_date": "2021-01-28",
+                "assignee_original": "Visa International Service Association",
+                "title": "Automated machine learning systems and methods",
+                "patent_id": "patent/US20210027182A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210027182A1%2Fen"
+            }
+        ]
+    },
+    "cited_by": {
+        "original": [
+            {
+                "publication_number": "US20210012228A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-07-08",
+                "publication_date": "2021-01-14",
+                "assignee_original": "Kabushiki Kaisha Toshiba",
+                "title": "Inference apparatus, learning apparatus, inference method, and learning method",
+                "patent_id": "patent/US20210012228A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210012228A1%2Fen"
+            }
+        ],
+        "family_to_family": [
+            {
+                "publication_number": "US10664936B2",
+                "primary_language": "en",
+                "priority_date": "2013-03-15",
+                "publication_date": "2020-05-26",
+                "assignee_original": "Csidentity Corporation",
+                "title": "Authentication systems and methods for on-demand products",
+                "patent_id": "patent/US10664936B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10664936B2%2Fen"
+            },
+            {
+                "publication_number": "US10839791B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-06-27",
+                "publication_date": "2020-11-17",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Neural network-based acoustic model with softening target-layer",
+                "patent_id": "patent/US10839791B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10839791B2%2Fen"
+            },
+            {
+                "publication_number": "US11374950B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-06-29",
+                "publication_date": "2022-06-28",
+                "assignee_original": "The Mitre Corporation",
+                "title": "Anomaly detection in complex systems",
+                "patent_id": "patent/US11374950B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11374950B2%2Fen"
+            },
+            {
+                "publication_number": "WO2020018589A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-07-16",
+                "publication_date": "2020-01-23",
+                "assignee_original": "Caswell Justin Wayne",
+                "title": "Decentralized infrastructure methods and systems",
+                "patent_id": "patent/WO2020018589A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020018589A1%2Fen"
+            },
+            {
+                "publication_number": "US11003766B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-08-20",
+                "publication_date": "2021-05-11",
+                "assignee_original": "Microsoft Technology Licensing, Llc",
+                "title": "Enhancing cybersecurity and operational monitoring with alert confidence assignments",
+                "patent_id": "patent/US11003766B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11003766B2%2Fen"
+            },
+            {
+                "publication_number": "US11868440B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-10-04",
+                "publication_date": "2024-01-09",
+                "assignee_original": "A9.Com, Inc.",
+                "title": "Statistical model training systems",
+                "patent_id": "patent/US11868440B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11868440B1%2Fen"
+            },
+            {
+                "publication_number": "CA3117203A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-10-23",
+                "publication_date": "2020-04-30",
+                "assignee_original": "Yext, Inc.",
+                "title": "Knowledge search system",
+                "patent_id": "patent/CA3117203A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3117203A1%2Fen"
+            },
+            {
+                "publication_number": "US11057409B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-01-16",
+                "publication_date": "2021-07-06",
+                "assignee_original": "Akitra, Inc.",
+                "title": "Apparatus having engine using artificial intelligence for detecting anomalies in a computer network",
+                "patent_id": "patent/US11057409B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11057409B1%2Fen"
+            },
+            {
+                "publication_number": "JP7306446B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-02-22",
+                "publication_date": "2023-07-11",
+                "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+                "title": "Anomaly detection device, anomaly detection method, and program",
+                "patent_id": "patent/JP7306446B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7306446B2%2Fen"
+            },
+            {
+                "publication_number": "CN109948117B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-03-13",
+                "publication_date": "2023-04-07",
+                "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+                "title": "Satellite anomaly detection method for network self-encoder",
+                "patent_id": "patent/CN109948117B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109948117B%2Fen"
+            },
+            {
+                "publication_number": "CN112487182B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-09-12",
+                "publication_date": "2024-04-12",
+                "assignee_original": "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8",
+                "title": "Text processing model training method, text processing method and device",
+                "patent_id": "patent/CN112487182B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112487182B%2Fen"
+            },
+            {
+                "publication_number": "US11294756B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-09-19",
+                "publication_date": "2022-04-05",
+                "assignee_original": "Amazon Technologies, Inc.",
+                "title": "Anomaly detection in a network",
+                "patent_id": "patent/US11294756B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11294756B1%2Fen"
+            },
+            {
+                "publication_number": "US11836159B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-10-11",
+                "publication_date": "2023-12-05",
+                "assignee_original": "Visa International Service Association",
+                "title": "System, method, and computer program product for analyzing a relational database using embedding learning",
+                "patent_id": "patent/US11836159B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11836159B2%2Fen"
+            },
+            {
+                "publication_number": "JP7242508B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-10-29",
+                "publication_date": "2023-03-20",
+                "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+                "title": "Information processing device, information processing method, and program",
+                "patent_id": "patent/JP7242508B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7242508B2%2Fen"
+            },
+            {
+                "publication_number": "US11386408B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-11-01",
+                "publication_date": "2022-07-12",
+                "assignee_original": "Intuit Inc.",
+                "title": "System and method for nearest neighbor-based bank account number validation",
+                "patent_id": "patent/US11386408B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11386408B2%2Fen"
+            },
+            {
+                "publication_number": "US11562203B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-12-30",
+                "publication_date": "2023-01-24",
+                "assignee_original": "Servicenow Canada Inc.",
+                "title": "Method of and server for training a machine learning algorithm for estimating uncertainty of a sequence of models",
+                "patent_id": "patent/US11562203B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11562203B2%2Fen"
+            },
+            {
+                "publication_number": "US11687778B2",
+                "primary_language": "en",
+                "priority_date": "2020-01-06",
+                "publication_date": "2023-06-27",
+                "assignee_original": "The Research Foundation For The State University Of New York",
+                "title": "Fakecatcher: detection of synthetic portrait videos using biological signals",
+                "patent_id": "patent/US11687778B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11687778B2%2Fen"
+            },
+            {
+                "publication_number": "US11403643B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-01-24",
+                "publication_date": "2022-08-02",
+                "assignee_original": "Adobe Inc.",
+                "title": "Utilizing a time-dependent graph convolutional neural network for fraudulent transaction identification",
+                "patent_id": "patent/US11403643B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11403643B2%2Fen"
+            },
+            {
+                "publication_number": "WO2021155053A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-01-30",
+                "publication_date": "2021-08-05",
+                "assignee_original": "Experian Information Solutions, Inc.",
+                "title": "Systems and methods for identifying synthetic identities",
+                "patent_id": "patent/WO2021155053A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021155053A1%2Fen"
+            },
+            {
+                "publication_number": "US11526814B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-02-12",
+                "publication_date": "2022-12-13",
+                "assignee_original": "Wipro Limited",
+                "title": "System and method for building ensemble models using competitive reinforcement learning",
+                "patent_id": "patent/US11526814B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11526814B2%2Fen"
+            },
+            {
+                "publication_number": "US20230080172A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-03-13",
+                "publication_date": "2023-03-16",
+                "assignee_original": "Hewlett-Packard Development Company, L.P.",
+                "title": "Transmitting node instructions",
+                "patent_id": "patent/US20230080172A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230080172A1%2Fen"
+            },
+            {
+                "publication_number": "JP7318804B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-03-27",
+                "publication_date": "2023-08-01",
+                "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+                "title": "Similarity Calculator, Authentication System, Similarity Calculation Method, Similarity Calculation Program, and Method for Generating Similarity Calculation Program",
+                "patent_id": "patent/JP7318804B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7318804B2%2Fen"
+            },
+            {
+                "publication_number": "US12039538B2",
+                "primary_language": "en",
+                "priority_date": "2020-04-01",
+                "publication_date": "2024-07-16",
+                "assignee_original": "Visa International Service Association",
+                "title": "System, method, and computer program product for breach detection using convolutional neural networks",
+                "patent_id": "patent/US12039538B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12039538B2%2Fen"
+            },
+            {
+                "publication_number": "CN111352229B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-04-07",
+                "publication_date": "2021-10-08",
+                "assignee_original": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66",
+                "title": "A virtual multi-plane imaging system and method",
+                "patent_id": "patent/CN111352229B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111352229B%2Fen"
+            },
+            {
+                "publication_number": "US11568317B2",
+                "primary_language": "en",
+                "priority_date": "2020-05-21",
+                "publication_date": "2023-01-31",
+                "assignee_original": "Paypal, Inc.",
+                "title": "Enhanced gradient boosting tree for risk and fraud modeling",
+                "patent_id": "patent/US11568317B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11568317B2%2Fen"
+            },
+            {
+                "publication_number": "EP3913544B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-05-22",
+                "publication_date": "2025-03-12",
+                "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+                "title": "A computer-implemented training method,  classification method and system,  computer program and computer-readable recording medium",
+                "patent_id": "patent/EP3913544B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3913544B1%2Fen"
+            },
+            {
+                "publication_number": "CN112069903B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-08-07",
+                "publication_date": "2023-12-22",
+                "assignee_original": "\u4e4b\u6c5f\u5b9e\u9a8c\u5ba4",
+                "title": "Method and device for realizing face recognition end edge unloading calculation based on deep reinforcement learning",
+                "patent_id": "patent/CN112069903B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112069903B%2Fen"
+            },
+            {
+                "publication_number": "WO2022054079A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-09-08",
+                "publication_date": "2022-03-17",
+                "assignee_original": "Iqreate Infotech Pvt Ltd",
+                "title": "System for contextual and positional parameterized record building",
+                "patent_id": "patent/WO2022054079A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022054079A1%2Fen"
+            },
+            {
+                "publication_number": "EP3975092B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-09-29",
+                "publication_date": "2025-04-30",
+                "assignee_original": "MasterCard International Incorporated",
+                "title": "Method and system for detecting fraudulent transactions",
+                "patent_id": "patent/EP3975092B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3975092B1%2Fen"
+            },
+            {
+                "publication_number": "US11928182B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-11-30",
+                "publication_date": "2024-03-12",
+                "assignee_original": "Amazon Technologies, Inc.",
+                "title": "Artificial intelligence system supporting semi-supervised learning with iterative stacking",
+                "patent_id": "patent/US11928182B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11928182B1%2Fen"
+            },
+            {
+                "publication_number": "US20240086926A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-01-19",
+                "publication_date": "2024-03-14",
+                "assignee_original": "Visa International Service Association",
+                "title": "System, Method, and Computer Program Product for Generating Synthetic Graphs That Simulate Real-Time Transactions",
+                "patent_id": "patent/US20240086926A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240086926A1%2Fen"
+            },
+            {
+                "publication_number": "US11887172B2",
+                "primary_language": "en",
+                "priority_date": "2021-01-29",
+                "publication_date": "2024-01-30",
+                "assignee_original": "Walmart Apollo, Llc",
+                "title": "Methods and apparatus for electronic detection of fraudulent transactions using machine learning processes",
+                "patent_id": "patent/US11887172B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11887172B2%2Fen"
+            },
+            {
+                "publication_number": "US20220245643A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-01-29",
+                "publication_date": "2022-08-04",
+                "assignee_original": "Walmart Apollo, Llc",
+                "title": "Methods and apparatus for electronic detection of fraudulent transactions using machine learning processes",
+                "patent_id": "patent/US20220245643A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220245643A1%2Fen"
+            },
+            {
+                "publication_number": "US12175469B2",
+                "primary_language": "en",
+                "priority_date": "2021-01-29",
+                "publication_date": "2024-12-24",
+                "assignee_original": "Walmart Apollo, Llc",
+                "title": "Methods and apparatus for electronic detection of fraudulent transactions using machine learning processes",
+                "patent_id": "patent/US12175469B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12175469B2%2Fen"
+            },
+            {
+                "publication_number": "US12217190B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-02-03",
+                "publication_date": "2025-02-04",
+                "assignee_original": "Bank Of America Corporation",
+                "title": "Decision making using integrated machine learning models and knowledge graphs",
+                "patent_id": "patent/US12217190B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12217190B2%2Fen"
+            },
+            {
+                "publication_number": "US20220269936A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-02-24",
+                "publication_date": "2022-08-25",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Knowledge graphs in machine learning decision optimization",
+                "patent_id": "patent/US20220269936A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220269936A1%2Fen"
+            },
+            {
+                "publication_number": "US12169844B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-06-30",
+                "publication_date": "2024-12-17",
+                "assignee_original": "EMC IP Holding Company LLC",
+                "title": "Methods and systems for identifying breakpoints in variable impact on model results",
+                "patent_id": "patent/US12169844B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12169844B2%2Fen"
+            },
+            {
+                "publication_number": "WO2023039901A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-09-18",
+                "publication_date": "2023-03-23",
+                "assignee_original": "\u4eac\u4e1c\u65b9\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "title": "Text recommendation method and apparatus, model training method and apparatus, and readable storage medium",
+                "patent_id": "patent/WO2023039901A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023039901A1%2Fen"
+            },
+            {
+                "publication_number": "CN114139729B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-01-29",
+                "publication_date": "2022-05-10",
+                "assignee_original": "\u5317\u4eac\u6613\u771f\u5b66\u601d\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Machine learning model training method and device, and text recognition method and device",
+                "patent_id": "patent/CN114139729B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114139729B%2Fen"
+            },
+            {
+                "publication_number": "CN117668302A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-08-26",
+                "publication_date": "2024-03-08",
+                "assignee_original": "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8",
+                "title": "Graph computing method, device and computing equipment",
+                "patent_id": "patent/CN117668302A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117668302A%2Fen"
+            },
+            {
+                "publication_number": "US12205115B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-09-15",
+                "publication_date": "2025-01-21",
+                "assignee_original": "Paypal, Inc.",
+                "title": "Data mining framework for segment prediction",
+                "patent_id": "patent/US12205115B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12205115B2%2Fen"
+            },
+            {
+                "publication_number": "CN115202661B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-09-15",
+                "publication_date": "2022-11-29",
+                "assignee_original": "\u6df1\u5733\u5927\u5b66",
+                "title": "A hybrid generation method with hierarchical layout and related equipment",
+                "patent_id": "patent/CN115202661B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115202661B%2Fen"
+            },
+            {
+                "publication_number": "US12288215B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-12-01",
+                "publication_date": "2025-04-29",
+                "assignee_original": "Bank Of America Corporation",
+                "title": "Multidimensional transaction pattern tracking and prediction",
+                "patent_id": "patent/US12288215B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12288215B2%2Fen"
+            },
+            {
+                "publication_number": "GB2625390B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-01-30",
+                "publication_date": "2025-01-29",
+                "assignee_original": "Lloyds Banking Group Plc",
+                "title": "Methods and systems for indicating the possibility of a cyber-attack on a computer network",
+                "patent_id": "patent/GB2625390B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2625390B%2Fen"
+            },
+            {
+                "publication_number": "US20250175484A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-11-28",
+                "publication_date": "2025-05-29",
+                "assignee_original": "Crowdstrike, Inc.",
+                "title": "Risk scoring of cloud permission assignments using supervised machine learning",
+                "patent_id": "patent/US20250175484A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250175484A1%2Fen"
+            }
+        ]
+    },
+    "similar_documents": [
+        {
+            "is_patent": true,
+            "publication_number": "US20230316076A1",
+            "primary_language": "en",
+            "publication_date": "2023-10-05",
+            "title": "Unsupervised Machine Learning System to Automate Functions On a Graph Structure",
+            "patent_id": "patent/US20230316076A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230316076A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190378051A1",
+            "primary_language": "en",
+            "publication_date": "2019-12-12",
+            "title": "Machine learning system coupled to a graph structure detecting outlier patterns using graph scanning",
+            "patent_id": "patent/US20190378051A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190378051A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190378050A1",
+            "primary_language": "en",
+            "publication_date": "2019-12-12",
+            "title": "Machine learning system to identify and optimize features based on historical data, known patterns, or emerging patterns",
+            "patent_id": "patent/US20190378050A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190378050A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190378049A1",
+            "primary_language": "en",
+            "publication_date": "2019-12-12",
+            "title": "Ensemble of machine learning engines coupled to a graph structure that spreads heat",
+            "patent_id": "patent/US20190378049A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190378049A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190377819A1",
+            "primary_language": "en",
+            "publication_date": "2019-12-12",
+            "title": "Machine learning system to detect, label, and spread heat in a graph structure",
+            "patent_id": "patent/US20190377819A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190377819A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11853854B2",
+            "primary_language": "en",
+            "publication_date": "2023-12-26",
+            "title": "Method of automating data science services",
+            "patent_id": "patent/US11853854B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11853854B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20220067738A1",
+            "primary_language": "en",
+            "publication_date": "2022-03-03",
+            "title": "System and Method for Blockchain Automatic Tracing of Money Flow Using Artificial Intelligence",
+            "patent_id": "patent/US20220067738A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220067738A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190259033A1",
+            "primary_language": "en",
+            "publication_date": "2019-08-22",
+            "title": "System and method for using a data genome to identify suspicious financial transactions",
+            "patent_id": "patent/US20190259033A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190259033A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20210027182A1",
+            "primary_language": "en",
+            "publication_date": "2021-01-28",
+            "title": "Automated machine learning systems and methods",
+            "patent_id": "patent/US20210027182A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210027182A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11551317B2",
+            "primary_language": "en",
+            "publication_date": "2023-01-10",
+            "title": "Property valuation model and visualization",
+            "patent_id": "patent/US11551317B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11551317B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230088840A1",
+            "primary_language": "en",
+            "publication_date": "2023-03-23",
+            "title": "Dynamic assessment of cryptocurrency transactions and technology adaptation metrics",
+            "patent_id": "patent/US20230088840A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230088840A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230252478A1",
+            "primary_language": "en",
+            "publication_date": "2023-08-10",
+            "title": "Clustering data vectors based on deep neural network embeddings",
+            "patent_id": "patent/US20230252478A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230252478A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12217065B1",
+            "primary_language": "en",
+            "publication_date": "2025-02-04",
+            "title": "Apparatus and method for determining system model comparisons",
+            "patent_id": "patent/US12217065B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12217065B1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240161117A1",
+            "primary_language": "en",
+            "publication_date": "2024-05-16",
+            "title": "Trigger-Based Electronic Fund Transfers",
+            "patent_id": "patent/US20240161117A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240161117A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240193501A1",
+            "primary_language": "en",
+            "publication_date": "2024-06-13",
+            "title": "Interface for management of resource transfers",
+            "patent_id": "patent/US20240193501A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240193501A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240193612A1",
+            "primary_language": "en",
+            "publication_date": "2024-06-13",
+            "title": "Actionable insights for resource transfers",
+            "patent_id": "patent/US20240193612A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240193612A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240185369A1",
+            "primary_language": "en",
+            "publication_date": "2024-06-06",
+            "title": "Biasing machine learning model outputs",
+            "patent_id": "patent/US20240185369A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240185369A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230342597A1",
+            "primary_language": "en",
+            "publication_date": "2023-10-26",
+            "title": "Using machine learning to extract subsets of interaction data for triggering development actions",
+            "patent_id": "patent/US20230342597A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230342597A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11983743B2",
+            "primary_language": "en",
+            "publication_date": "2024-05-14",
+            "title": "Training an artificial intelligence engine for generating models to provide targeted actions",
+            "patent_id": "patent/US11983743B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11983743B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11659388B2",
+            "primary_language": "en",
+            "publication_date": "2023-05-23",
+            "title": "AI-based multi-mode wireless access protocol (MMWAP)",
+            "patent_id": "patent/US11659388B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11659388B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250117512A1",
+            "primary_language": "en",
+            "publication_date": "2025-04-10",
+            "title": "Data privacy using quick response code",
+            "patent_id": "patent/US20250117512A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250117512A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250117513A1",
+            "primary_language": "en",
+            "publication_date": "2025-04-10",
+            "title": "Data privacy using quick response code",
+            "patent_id": "patent/US20250117513A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250117513A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20250117514A1",
+            "primary_language": "en",
+            "publication_date": "2025-04-10",
+            "title": "Data privacy using quick response code",
+            "patent_id": "patent/US20250117514A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250117514A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240330678A1",
+            "primary_language": "en",
+            "publication_date": "2024-10-03",
+            "title": "Data privacy management system and method utilizing machine learning",
+            "patent_id": "patent/US20240330678A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240330678A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12250201B1",
+            "primary_language": "en",
+            "publication_date": "2025-03-11",
+            "title": "Systems and methods for monitoring data networks featuring data traffic with using probabilistic graphical models",
+            "patent_id": "patent/US12250201B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12250201B1%2Fen"
+        }
+    ],
+    "legal_events": [
+        {
+            "date": "2023-06-09",
+            "code": "AS",
+            "title": "Assignment",
+            "attributes": [
+                {
+                    "label": "Owner name",
+                    "value": "BANK OF AMERICA CORPORATION, NORTH CAROLINA"
+                },
+                {
+                    "label": "Free format text",
+                    "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MORRIS, RONNIE J.;PUSEY-CONLIN, DANA M.;EDKIN, LORRAINE C.;AND OTHERS;SIGNING DATES FROM 20180607 TO 20180612;REEL/FRAME:063907/0821"
+                }
+            ]
+        },
+        {
+            "date": "2023-07-02",
+            "code": "STPP",
+            "title": "Information on status: patent application and granting procedure in general",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+                }
+            ]
+        }
+    ],
+    "concepts": {
+        "match": [
+            {
+                "id": "238000010801",
+                "name": "machine learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 371
+            },
+            {
+                "id": "230000006870",
+                "name": "function",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "description"
+                ],
+                "count": 131
+            },
+            {
+                "id": "238000013528",
+                "name": "artificial neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 115
+            },
+            {
+                "id": "238000000034",
+                "name": "method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 157
+            },
+            {
+                "id": "239000013598",
+                "name": "vector",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 62
+            },
+            {
+                "id": "230000009471",
+                "name": "action",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 49
+            },
+            {
+                "id": "230000004048",
+                "name": "modification",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 46
+            },
+            {
+                "id": "238000012986",
+                "name": "modification",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 46
+            },
+            {
+                "id": "238000012549",
+                "name": "training",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 43
+            },
+            {
+                "id": "230000008569",
+                "name": "process",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 42
+            },
+            {
+                "id": "238000012512",
+                "name": "characterization method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 16
+            },
+            {
+                "id": "230000015654",
+                "name": "memory",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 13
+            },
+            {
+                "id": "238000012545",
+                "name": "processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract",
+                    "description"
+                ],
+                "count": 67
+            },
+            {
+                "id": "230000003044",
+                "name": "adaptive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract",
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013527",
+                "name": "convolutional neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract",
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000000875",
+                "name": "corresponding effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 79
+            },
+            {
+                "id": "238000004422",
+                "name": "calculation algorithm",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 51
+            },
+            {
+                "id": "230000001010",
+                "name": "compromised effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 24
+            },
+            {
+                "id": "238000004590",
+                "name": "computer program",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 21
+            },
+            {
+                "id": "230000004044",
+                "name": "response",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 19
+            },
+            {
+                "id": "238000003860",
+                "name": "storage",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 19
+            },
+            {
+                "id": "238000012360",
+                "name": "testing method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 13
+            },
+            {
+                "id": "210000000887",
+                "name": "face",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "238000003066",
+                "name": "decision tree",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 9
+            },
+            {
+                "id": "238000005457",
+                "name": "optimization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 9
+            },
+            {
+                "id": "230000002547",
+                "name": "anomalous effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000001514",
+                "name": "detection method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000005516",
+                "name": "engineering process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000005562",
+                "name": "fading",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000003909",
+                "name": "pattern recognition",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "241000282472",
+                "name": "Canis lupus familiaris",
+                "domain": "Species",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "230000008859",
+                "name": "change",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "230000000694",
+                "name": "effects",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 6
+            },
+            {
+                "id": "238000004458",
+                "name": "analytical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "238000013473",
+                "name": "artificial intelligence",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000002787",
+                "name": "reinforcement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "238000003892",
+                "name": "spreading",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000007480",
+                "name": "spreading",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "241000282326",
+                "name": "Felis catus",
+                "domain": "Species",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000008901",
+                "name": "benefit",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "235000014510",
+                "name": "cooky",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000001815",
+                "name": "facial effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000001939",
+                "name": "inductive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000002372",
+                "name": "labelling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000012706",
+                "name": "support-vector machine",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000004931",
+                "name": "aggregating effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013459",
+                "name": "approach",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000006399",
+                "name": "behavior",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013135",
+                "name": "deep learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000011156",
+                "name": "evaluation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000006872",
+                "name": "improvement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000001965",
+                "name": "increasing effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000010354",
+                "name": "integration",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000007637",
+                "name": "random forest analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "241000282412",
+                "name": "Homo",
+                "domain": "Species",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000003491",
+                "name": "array",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "210000004556",
+                "name": "brain",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000010267",
+                "name": "cellular communication",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000004140",
+                "name": "cleaning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000012790",
+                "name": "confirmation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000010276",
+                "name": "construction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000001419",
+                "name": "dependent effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000009826",
+                "name": "distribution",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000001914",
+                "name": "filtration",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000009434",
+                "name": "installation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000007246",
+                "name": "mechanism",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000007781",
+                "name": "pre-processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "239000000047",
+                "name": "product",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000000306",
+                "name": "recurrent effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000002123",
+                "name": "temporal effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "235000018185",
+                "name": "Betula X alpestris",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "235000018212",
+                "name": "Betula X uliginosa",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000004913",
+                "name": "activation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000006978",
+                "name": "adaptation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002238",
+                "name": "attenuated effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000009286",
+                "name": "beneficial effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013529",
+                "name": "biological neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000005540",
+                "name": "biological transmission",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000000648",
+                "name": "calcium alginate",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001413",
+                "name": "cellular effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007621",
+                "name": "cluster analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000004891",
+                "name": "communication",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000052",
+                "name": "comparative effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000004883",
+                "name": "computer application",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008094",
+                "name": "contradictory effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002596",
+                "name": "correlated effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000009223",
+                "name": "counseling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008878",
+                "name": "coupling",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010168",
+                "name": "coupling process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005859",
+                "name": "coupling reaction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003247",
+                "name": "decreasing effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013461",
+                "name": "design",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010586",
+                "name": "diagram",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "235000012489",
+                "name": "doughnuts",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002708",
+                "name": "enhancing effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001747",
+                "name": "exhibiting effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000002955",
+                "name": "isolation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012804",
+                "name": "iterative process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000670",
+                "name": "limiting effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000007787",
+                "name": "long-term memory",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000004519",
+                "name": "manufacturing process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007620",
+                "name": "mathematical function",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000011159",
+                "name": "matrix material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000002184",
+                "name": "metal",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000000203",
+                "name": "mixture",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008450",
+                "name": "motivation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001537",
+                "name": "neural effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000002569",
+                "name": "neuron",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003287",
+                "name": "optical effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000013307",
+                "name": "optical fiber",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000010355",
+                "name": "oscillation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000011176",
+                "name": "pooling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001902",
+                "name": "propagating effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002829",
+                "name": "reductive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007670",
+                "name": "refining",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002441",
+                "name": "reversible effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012552",
+                "name": "review",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005070",
+                "name": "sampling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000006403",
+                "name": "short-term memory",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003595",
+                "name": "spectral effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007619",
+                "name": "statistical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000013589",
+                "name": "supplement",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000007704",
+                "name": "transition",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010200",
+                "name": "validation analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            }
+        ]
+    }
+}

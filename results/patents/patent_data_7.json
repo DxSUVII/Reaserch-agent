@@ -1,0 +1,2119 @@
+{
+    "search_metadata": {
+        "id": "688f8cf96feec43d68d1be5c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4934d312977387d3/688f8cf96feec43d68d1be5c.json",
+        "created_at": "2025-08-03 16:23:21 UTC",
+        "processed_at": "2025-08-03 16:23:21 UTC",
+        "google_patents_details_url": "https://patents.google.com/patent/US11645548B1/en",
+        "raw_html_file": "https://serpapi.com/searches/4934d312977387d3/688f8cf96feec43d68d1be5c.html",
+        "total_time_taken": 1.42
+    },
+    "search_parameters": {
+        "engine": "google_patents_details",
+        "patent_id": "patent/US11645548B1/en"
+    },
+    "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling",
+    "type": "patent",
+    "pdf": "https://patentimages.storage.googleapis.com/0d/60/4c/e26cf6425ea690/US11645548.pdf",
+    "publication_number": "US11645548B1",
+    "country": "United States",
+    "prior_art_keywords": [
+        "data",
+        "block",
+        "input",
+        "machine learning",
+        "engine"
+    ],
+    "prior_art_date": "2021-10-20",
+    "application_number": "US17/856,521",
+    "inventors": [
+        {
+            "name": "Sastry VSM Durvasula",
+            "link": "https://patents.google.com/?inventor=Sastry+VSM+Durvasula",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sastry+VSM+Durvasula"
+        },
+        {
+            "name": "Neema Uthappa",
+            "link": "https://patents.google.com/?inventor=Neema+Uthappa",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Neema+Uthappa"
+        },
+        {
+            "name": "Sriram Venkatesan",
+            "link": "https://patents.google.com/?inventor=Sriram+Venkatesan",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sriram+Venkatesan"
+        },
+        {
+            "name": "Sonam Jha",
+            "link": "https://patents.google.com/?inventor=Sonam+Jha",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sonam+Jha"
+        },
+        {
+            "name": "Jaspreet Singh",
+            "link": "https://patents.google.com/?inventor=Jaspreet+Singh",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jaspreet+Singh"
+        },
+        {
+            "name": "Rares Almasan",
+            "link": "https://patents.google.com/?inventor=Rares+Almasan",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Rares+Almasan"
+        }
+    ],
+    "assignees": [
+        "McKinsey and Co Inc"
+    ],
+    "priority_date": "2021-10-20",
+    "filing_date": "2022-07-01",
+    "publication_date": "2023-05-09",
+    "worldwide_applications": {
+        "2021": [
+            {
+                "filing_date": "2021-10-20",
+                "country_code": "US",
+                "application_number": "US17/506,536",
+                "document_id": "patent/US11416754B1/en",
+                "legal_status_cat": "active",
+                "legal_status": "Active"
+            }
+        ],
+        "2022": [
+            {
+                "filing_date": "2022-07-01",
+                "country_code": "US",
+                "application_number": "US17/856,521",
+                "document_id": "patent/US11645548B1/en",
+                "legal_status_cat": "active",
+                "legal_status": "Active",
+                "this_app": true
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": "2022-07-01",
+            "title": "Application filed by McKinsey and Co Inc",
+            "type": "filed",
+            "critical": true,
+            "assignee_search": "McKinsey and Co Inc"
+        },
+        {
+            "date": "2022-07-01",
+            "title": "Priority to US17/856,521",
+            "type": "priority",
+            "critical": true,
+            "document_id": "patent/US11645548B1/en"
+        },
+        {
+            "date": "2022-07-06",
+            "title": "Assigned to MCKINSEY & COMPANY, INC.",
+            "type": "reassignment",
+            "assignee_search": "MCKINSEY & COMPANY, INC.",
+            "description": [
+                "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                "Assignors: DURVASULA, SASTRY VSM, JHA, SONAM, SINGH, JASPREET, ALMASAN, RARES, UTHAPPA, NEEMA, VENKATESAN, SRIRAM"
+            ]
+        },
+        {
+            "date": "2023-02-01",
+            "title": "Priority to US18/104,743",
+            "type": "priority",
+            "document_id": "patent/US20230186117A1/en"
+        },
+        {
+            "date": "2023-04-20",
+            "title": "Publication of US20230123077A1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US20230123077A1/en"
+        },
+        {
+            "date": "2023-05-09",
+            "title": "Application granted",
+            "type": "granted",
+            "critical": true
+        },
+        {
+            "date": "2023-05-09",
+            "title": "Publication of US11645548B1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/US11645548B1/en"
+        },
+        {
+            "date": "Status",
+            "title": "Active",
+            "type": "legal-status",
+            "critical": true,
+            "current": true
+        },
+        {
+            "date": "2041-10-20",
+            "title": "Anticipated expiration",
+            "type": "legal-status",
+            "critical": true
+        }
+    ],
+    "external_links": [
+        {
+            "text": "USPTO",
+            "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11645548.PN."
+        },
+        {
+            "text": "USPTO PatentCenter",
+            "link": "https://patentcenter.uspto.gov/applications/17856521"
+        },
+        {
+            "text": "USPTO Assignment",
+            "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=11645548"
+        },
+        {
+            "text": "Espacenet",
+            "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=11645548B1&KC=B1&FT=D"
+        },
+        {
+            "text": "Global Dossier",
+            "link": "https://globaldossier.uspto.gov/result/application/US/17856521/1"
+        },
+        {
+            "text": "Discuss",
+            "link": "https://patents.stackexchange.com/questions/tagged/US11645548"
+        }
+    ],
+    "images": [
+        "https://patentimages.storage.googleapis.com/a5/17/07/0cff734015a8ed/US11645548-20230509-D00000.png",
+        "https://patentimages.storage.googleapis.com/f1/e6/ea/a13aba71f2cf88/US11645548-20230509-D00001.png",
+        "https://patentimages.storage.googleapis.com/e7/65/07/bb51dcdba7e646/US11645548-20230509-D00002.png",
+        "https://patentimages.storage.googleapis.com/86/51/c9/21e315ca1f5db8/US11645548-20230509-D00003.png",
+        "https://patentimages.storage.googleapis.com/45/b4/ae/71a08fefa3741a/US11645548-20230509-D00004.png",
+        "https://patentimages.storage.googleapis.com/34/b9/5f/aa81cebbc0d5e2/US11645548-20230509-D00005.png",
+        "https://patentimages.storage.googleapis.com/5b/d3/ff/1d494677437455/US11645548-20230509-D00006.png",
+        "https://patentimages.storage.googleapis.com/f8/8d/5b/b5a87491660124/US11645548-20230509-D00007.png",
+        "https://patentimages.storage.googleapis.com/37/6d/0b/14f38facff63ad/US11645548-20230509-D00008.png",
+        "https://patentimages.storage.googleapis.com/3d/52/c9/e43113fa1b8449/US11645548-20230509-D00009.png",
+        "https://patentimages.storage.googleapis.com/32/c8/76/42b6c9f4608d2f/US11645548-20230509-D00010.png",
+        "https://patentimages.storage.googleapis.com/fa/a7/63/c2a94d1ec1e96d/US11645548-20230509-D00011.png",
+        "https://patentimages.storage.googleapis.com/56/06/f8/b32406696935b6/US11645548-20230509-D00012.png",
+        "https://patentimages.storage.googleapis.com/70/56/6c/0a8b8f12c6f687/US11645548-20230509-D00013.png",
+        "https://patentimages.storage.googleapis.com/3d/6c/37/547a3dd1908260/US11645548-20230509-D00014.png",
+        "https://patentimages.storage.googleapis.com/0a/34/bb/05e8bb897d8348/US11645548-20230509-D00015.png",
+        "https://patentimages.storage.googleapis.com/36/62/a1/ec153650cad1ac/US11645548-20230509-D00016.png",
+        "https://patentimages.storage.googleapis.com/0a/4c/80/b6fb1b60f038a8/US11645548-20230509-D00017.png",
+        "https://patentimages.storage.googleapis.com/b5/91/ff/69072aba610777/US11645548-20230509-D00018.png",
+        "https://patentimages.storage.googleapis.com/c2/52/ad/264fbeaeb441aa/US11645548-20230509-D00019.png",
+        "https://patentimages.storage.googleapis.com/a2/75/16/319bbf684c357b/US11645548-20230509-D00020.png",
+        "https://patentimages.storage.googleapis.com/95/d9/09/768848bd6ce9d9/US11645548-20230509-D00021.png",
+        "https://patentimages.storage.googleapis.com/01/ce/4c/a0d37783058fb6/US11645548-20230509-D00022.png",
+        "https://patentimages.storage.googleapis.com/f2/ca/07/32d733e6fa91b8/US11645548-20230509-D00023.png",
+        "https://patentimages.storage.googleapis.com/e3/85/17/3e4c83857225dc/US11645548-20230509-D00024.png"
+    ],
+    "classifications": [
+        {
+            "code": "G06N3/08",
+            "description": "Learning methods",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N5/022",
+            "description": "Knowledge engineering; Knowledge acquisition",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "G06N20/00",
+            "description": "Machine learning",
+            "leaf": true,
+            "is_cpc": true
+        }
+    ],
+    "abstract": "A method includes receiving first input, analyzing the first input using a first model, receiving second input, analyzing the second input using a second model; and generating infrastructure-as-code. A computing system includes a processor; and a memory comprising instructions, that when executed, cause the computing system to: receive first input, analyze the first input using a first model, receive second input, analyze the second input using a second model; and generate infrastructure-as-code. A non-transitory computer-readable storage medium storing executable instructions that, when executed by a processor, cause a computer to: receive first input, analyze the first input using a first model, receive second input, analyze the second input using a second model; and generate infrastructure-as-code.",
+    "description_link": "https://serpapi.com/searches/688f8cf96feec43d68d1be5c/google_patents_details/description.html",
+    "claims": [
+        "1. A computer-implemented method for improving codification of institutional knowledge using machine learning and artificial intelligence modeling, comprising:\nreceiving input current data and architecture state information;\nanalyzing the input current data and/or architecture state information using a first machine learning model trained by accessing codified knowledge;\nreceiving input future data and architecture state information;\nanalyzing the input future data and/or architecture state information using a second machine learning model trained by analyzing one or more historical labeled inputs; and\ngenerating infrastructure-as-code corresponding to a future computing environment.",
+        "2. The computer-implemented method of claim 1, further comprising:\ntraining the first machine learning model to analyze first data and architecture state input information corresponding to the current computing environment;\ntraining the second machine learning model to analyze second data and architecture state input information corresponding to the future computing environment; and\nanalyzing the input future data using a knowledge engine to generate extracted information.",
+        "3. The computer-implemented method of claim 2, wherein the knowledge engine is selected from the group consisting of a data structure engine, a data quality and remediation engine, a data governance engine, a global data/enterprise engine, a data pipeline pattern engine, a technical modules engine, a pattern knowledge engine; or a data visualization engine.",
+        "4. The computer-implemented method of claim 1, further comprising:\ngenerating an input template electronic form including the input future data and architecture state information.",
+        "5. The computer-implemented method of claim 1, further comprising:\nprocessing one or more user response using natural language processing to determine one or more desired characteristic of the future computing environment.",
+        "6. The computer-implemented method of claim 1, further comprising:\ngenerating a number of deployment options using a trained machine learning model, wherein the deployment options include at least one of a one-click deployment or a manual delivery deployment.",
+        "7. The computer-implemented method of claim 6, further comprising:\ndisplaying the deployment options to a user.",
+        "8. A computing system, comprising:\none or more processors; and\na memory having stored thereon instructions, that when executed, cause the computing system to:\nreceive input current data and architecture state information;\nanalyze the input current data and/or architecture state information using a first machine learning model trained by accessing codified knowledge;\nreceive input future data and architecture state information;\nanalyze the input future data and/or architecture state information using a second machine learning model trained by analyzing one or more historical labeled inputs; and\ngenerate infrastructure-as-code corresponding to a future computing environment.",
+        "9. The computing system of claim 8, the memory having stored thereon further instructions that, when executed, cause the system to:\ntrain the first machine learning model to analyze first data and architecture state input information corresponding to the current computing environment;\ntrain the second machine learning model to analyze second data and architecture state input information corresponding to the future computing environment; and\nanalyze the input future data using a knowledge engine to generate extracted information.",
+        "10. The computing system of claim 9, the memory having stored thereon further instructions wherein the knowledge engine is selected from the group consisting of:\na data structure engine, a data quality and remediation engine, a data governance engine, a global data/enterprise engine, a data pipeline pattern engine, a technical modules engine, a pattern knowledge engine; or a data visualization engine.",
+        "11. The computing system of claim 8, the memory having stored thereon further instructions that, when executed, cause the system to:\ngenerate an input template electronic form including the input future data and architecture state information.",
+        "12. The computing system of claim 8, the memory having stored thereon further instructions that, when executed, cause the system to:\nprocess one or more user response using natural language processing to determine one or more desired characteristic of the future computing environment.",
+        "13. The computing system of claim 8, the memory having stored thereon further instructions that, when executed, cause the system to:\ngenerate a number of deployment options using a trained machine learning model wherein the deployment options include at least one of a one-click deployment or a manual delivery deployment.",
+        "14. The computing system of claim 13, the memory having stored thereon further instructions that, when executed, cause the system to:\ndisplay the deployment options to a user.",
+        "15. A non-transitory computer-readable storage medium having stored thereon executable instructions that, when executed by a processor, cause a computer to:\nreceive input current data and architecture state information;\nanalyze the input current data and/or architecture state information using a first machine learning model trained by accessing codified knowledge;\nreceive input future data and architecture state information;\nanalyze the input future data and/or architecture state information using a second machine learning model trained by analyzing one or more historical labeled inputs; and\ngenerate infrastructure-as-code corresponding to a future computing environment.",
+        "16. The non-transitory computer-readable storage medium of claim 15, having stored thereon further executable instructions that, when executed, cause a computer to:\ntrain the first machine learning model to analyze first data and architecture state input information corresponding to the current computing environment;\ntrain the second machine learning model to analyze second data and architecture state input information corresponding to the future computing environment; and\nanalyze the input future data using a knowledge engine to generate extracted information.",
+        "17. The non-transitory computer-readable storage medium of claim 15, having stored thereon further executable instructions that, when executed, cause a computer to:\ngenerate an input template electronic form including the input future data and architecture state information.",
+        "18. The non-transitory computer-readable storage medium of claim 15, having stored thereon further executable instructions that, when executed, cause a computer to:\nprocess one or more user response using natural language processing to determine one or more desired characteristic of the future computing environment.",
+        "19. The non-transitory computer-readable storage medium of claim 15, having stored thereon further executable instructions that, when executed, cause a computer to:\ngenerate a number of deployment options using a trained machine learning model wherein the deployment options include at least one of a one-click deployment or a manual delivery deployment.",
+        "20. The non-transitory computer-readable storage medium of claim 19, having stored thereon further executable instructions that, when executed, cause a computer to:\ndisplay the deployment options to a user."
+    ],
+    "child_applications": [
+        {
+            "application_number": "US18/104,743",
+            "relation_type": "Continuation-In-Part",
+            "representative_publication": "US20230186117A1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2023-02-01",
+            "title": "Automated cloud data and technology solution delivery using dynamic minibot squad engine machine learning and artificial intelligence modeling"
+        }
+    ],
+    "parent_applications": [
+        {
+            "application_number": "US17/506,536",
+            "relation_type": "Continuation",
+            "representative_publication": "US11416754B1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2021-10-20",
+            "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling"
+        }
+    ],
+    "priority_applications": [
+        {
+            "application_number": "US17/856,521",
+            "representative_publication": "US11645548B1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2022-07-01",
+            "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling"
+        },
+        {
+            "application_number": "US18/104,743",
+            "representative_publication": "US20230186117A1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2023-02-01",
+            "title": "Automated cloud data and technology solution delivery using dynamic minibot squad engine machine learning and artificial intelligence modeling"
+        }
+    ],
+    "applications_claiming_priority": [
+        {
+            "application_number": "US17/506,536",
+            "representative_publication": "US11416754B1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2021-10-20",
+            "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling"
+        },
+        {
+            "application_number": "US17/856,521",
+            "representative_publication": "US11645548B1",
+            "primary_language": "en",
+            "priority_date": "2021-10-20",
+            "filing_date": "2022-07-01",
+            "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling"
+        }
+    ],
+    "family_id": "82802756",
+    "patent_citations": {
+        "original": [
+            {
+                "publication_number": "US20200004582A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-07-02",
+                "publication_date": "2020-01-02",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Cognitive cloud migration optimizer",
+                "patent_id": "patent/US20200004582A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200004582A1%2Fen"
+            },
+            {
+                "publication_number": "US20200304571A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-03-19",
+                "publication_date": "2020-09-24",
+                "assignee_original": "Hewlett Packard Enterprise Development Lp",
+                "title": "Application migrations",
+                "patent_id": "patent/US20200304571A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200304571A1%2Fen"
+            },
+            {
+                "publication_number": "US20210174280A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-12-09",
+                "publication_date": "2021-06-10",
+                "assignee_original": "Thiruchelvan K Ratnapuri",
+                "title": "Systems and Methods for Efficient Cloud Migration",
+                "patent_id": "patent/US20210174280A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210174280A1%2Fen"
+            }
+        ]
+    },
+    "cited_by": {
+        "original": [
+            {
+                "publication_number": "US20230289680A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-03-09",
+                "publication_date": "2023-09-14",
+                "assignee_original": "Adp, Inc.",
+                "title": "Predicting and indexing infrastructure project requirements",
+                "patent_id": "patent/US20230289680A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230289680A1%2Fen"
+            }
+        ],
+        "family_to_family": [
+            {
+                "publication_number": "US11755954B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-03-11",
+                "publication_date": "2023-09-12",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Scheduled federated learning for enhanced search",
+                "patent_id": "patent/US11755954B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11755954B2%2Fen"
+            },
+            {
+                "publication_number": "US11604785B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-03-26",
+                "publication_date": "2023-03-14",
+                "assignee_original": "Jpmorgan Chase Bank, N.A.",
+                "title": "System and method for implementing a data quality check module",
+                "patent_id": "patent/US11604785B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11604785B2%2Fen"
+            },
+            {
+                "publication_number": "US11714802B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-04-02",
+                "publication_date": "2023-08-01",
+                "assignee_original": "Palo Alto Research Center Incorporated",
+                "title": "Using multiple trained models to reduce data labeling efforts",
+                "patent_id": "patent/US11714802B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11714802B2%2Fen"
+            },
+            {
+                "publication_number": "US11741066B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-05-25",
+                "publication_date": "2023-08-29",
+                "assignee_original": "International Business Machines Corporation",
+                "title": "Blockchain based reset for new version of an application",
+                "patent_id": "patent/US11741066B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11741066B2%2Fen"
+            },
+            {
+                "publication_number": "US12141528B2",
+                "primary_language": "en",
+                "priority_date": "2021-10-22",
+                "publication_date": "2024-11-12",
+                "assignee_original": "Open Text Corporation",
+                "title": "Composite extraction systems and methods for artificial intelligence platform",
+                "patent_id": "patent/US12141528B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12141528B2%2Fen"
+            },
+            {
+                "publication_number": "US12124585B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-10-25",
+                "publication_date": "2024-10-22",
+                "assignee_original": "Netformx",
+                "title": "Risk assessment management",
+                "patent_id": "patent/US12124585B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12124585B1%2Fen"
+            },
+            {
+                "publication_number": "US12182258B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-11-08",
+                "publication_date": "2024-12-31",
+                "assignee_original": "Microsoft Technology Licensing, Llc",
+                "title": "Adversarial training to minimize data poisoning attacks",
+                "patent_id": "patent/US12182258B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12182258B2%2Fen"
+            },
+            {
+                "publication_number": "US20230418582A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-06-23",
+                "publication_date": "2023-12-28",
+                "assignee_original": "Bank Of America Corporation",
+                "title": "Information Technology Management System",
+                "patent_id": "patent/US20230418582A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230418582A1%2Fen"
+            },
+            {
+                "publication_number": "US12361163B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-09-30",
+                "publication_date": "2025-07-15",
+                "assignee_original": "Capital One Services, Llc",
+                "title": "Systems and methods for sanitizing sensitive data and preventing data leakage from mobile devices",
+                "patent_id": "patent/US12361163B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12361163B2%2Fen"
+            },
+            {
+                "publication_number": "WO2024095160A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-10-31",
+                "publication_date": "2024-05-10",
+                "assignee_original": "Open Text Corporation",
+                "title": "Data subject assessment systems and methods for artificial intelligence platform based on composite extraction",
+                "patent_id": "patent/WO2024095160A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024095160A1%2Fen"
+            },
+            {
+                "publication_number": "US20240193546A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-12-13",
+                "publication_date": "2024-06-13",
+                "assignee_original": "Red Hat, Inc.",
+                "title": "Automated policy compliance",
+                "patent_id": "patent/US20240193546A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240193546A1%2Fen"
+            },
+            {
+                "publication_number": "CN116541752B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-07-06",
+                "publication_date": "2023-09-15",
+                "assignee_original": "\u676d\u5dde\u7f8e\u521b\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "title": "Metadata management method, device, computer equipment and storage medium",
+                "patent_id": "patent/CN116541752B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116541752B%2Fen"
+            },
+            {
+                "publication_number": "CN116820730B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-08-28",
+                "publication_date": "2024-01-09",
+                "assignee_original": "\u82cf\u5dde\u6d6a\u6f6e\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "Task scheduling method, device and storage medium of multi-engine computing system",
+                "patent_id": "patent/CN116820730B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116820730B%2Fen"
+            },
+            {
+                "publication_number": "KR102782509B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2023-12-29",
+                "publication_date": "2025-03-19",
+                "assignee_original": "\uc624\ucf00\uc2a4\ud2b8\ub85c \uc8fc\uc2dd\ud68c\uc0ac",
+                "title": "A security sever for automatic security of cloud servers and a cloud management system comprising the same",
+                "patent_id": "patent/KR102782509B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102782509B1%2Fen"
+            },
+            {
+                "publication_number": "CN117725995B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2024-02-18",
+                "publication_date": "2024-05-24",
+                "assignee_original": "\u9752\u5c9b\u6d77\u5c14\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "A method, device and medium for constructing knowledge graph based on large model",
+                "patent_id": "patent/CN117725995B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117725995B%2Fen"
+            }
+        ]
+    },
+    "similar_documents": [
+        {
+            "is_patent": true,
+            "publication_number": "US11645548B1",
+            "primary_language": "en",
+            "publication_date": "2023-05-09",
+            "title": "Automated cloud data and technology solution delivery using machine learning and artificial intelligence modeling",
+            "patent_id": "patent/US11645548B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11645548B1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20240386015A1",
+            "primary_language": "en",
+            "publication_date": "2024-11-21",
+            "title": "Composite symbolic and non-symbolic artificial intelligence system for advanced reasoning and semantic search",
+            "patent_id": "patent/US20240386015A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240386015A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11481553B1",
+            "primary_language": "en",
+            "publication_date": "2022-10-25",
+            "title": "Intelligent knowledge management-driven decision making model",
+            "patent_id": "patent/US11481553B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11481553B1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11615331B2",
+            "primary_language": "en",
+            "publication_date": "2023-03-28",
+            "title": "Explainable artificial intelligence",
+            "patent_id": "patent/US11615331B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11615331B2%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "5836451708265049923",
+            "scholar_authors": "Ciaburro",
+            "publication_date": "2017",
+            "title": "MATLAB for machine learning",
+            "patent_id": "scholar/5836451708265049923",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5836451708265049923"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12045756B2",
+            "primary_language": "en",
+            "publication_date": "2024-07-23",
+            "title": "Machine learning methods and systems for cataloging and making recommendations based on domain-specific knowledge",
+            "patent_id": "patent/US12045756B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12045756B2%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "7823643169279548253",
+            "scholar_authors": "Kapoor",
+            "publication_date": "2025",
+            "title": "\u200b Hands-On Artificial Intelligence for IoT: Expert machine learning and deep learning techniques for developing smarter IoT systems",
+            "patent_id": "scholar/7823643169279548253",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7823643169279548253"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US12254419B2",
+            "primary_language": "en",
+            "publication_date": "2025-03-18",
+            "title": "Machine learning techniques for environmental discovery, environmental validation, and automated knowledge repository generation",
+            "patent_id": "patent/US12254419B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12254419B2%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "1596190358649836829",
+            "scholar_authors": "Raj",
+            "publication_date": "2021",
+            "title": "Engineering mlops",
+            "patent_id": "scholar/1596190358649836829",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1596190358649836829"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11720846B2",
+            "primary_language": "en",
+            "publication_date": "2023-08-08",
+            "title": "Artificial intelligence-based use case model recommendation methods and systems",
+            "patent_id": "patent/US11720846B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11720846B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230168874A1",
+            "primary_language": "en",
+            "publication_date": "2023-06-01",
+            "title": "Managing and deploying applications in multi-cloud environment",
+            "patent_id": "patent/US20230168874A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230168874A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US10896034B2",
+            "primary_language": "en",
+            "publication_date": "2021-01-19",
+            "title": "Methods and systems for automated screen display generation and configuration",
+            "patent_id": "patent/US10896034B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10896034B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20220291966A1",
+            "primary_language": "en",
+            "publication_date": "2022-09-15",
+            "title": "Systems and methods for process mining using unsupervised learning and for automating orchestration of workflows",
+            "patent_id": "patent/US20220291966A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220291966A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11811797B2",
+            "primary_language": "en",
+            "publication_date": "2023-11-07",
+            "title": "Machine learning methods and systems for developing security governance recommendations",
+            "patent_id": "patent/US11811797B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11811797B2%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "3025143207597979976",
+            "scholar_authors": "Kalu\u017ea",
+            "publication_date": "2016",
+            "title": "Machine learning in java",
+            "patent_id": "scholar/3025143207597979976",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3025143207597979976"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230186117A1",
+            "primary_language": "en",
+            "publication_date": "2023-06-15",
+            "title": "Automated cloud data and technology solution delivery using dynamic minibot squad engine machine learning and artificial intelligence modeling",
+            "patent_id": "patent/US20230186117A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230186117A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20190228297A1",
+            "primary_language": "en",
+            "publication_date": "2019-07-25",
+            "title": "Artificial Intelligence Modelling Engine",
+            "patent_id": "patent/US20190228297A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190228297A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "1691141144370488618",
+            "scholar_authors": "Habtemariam",
+            "publication_date": "2024",
+            "title": "The Role of Cloud-Based AI and ML for Interactive Web Applications: Opportunity and challenges",
+            "patent_id": "scholar/1691141144370488618",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1691141144370488618"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "1755619671052772087",
+            "scholar_authors": "Kleftakis et al.",
+            "publication_date": "2022",
+            "title": "Digital twin in healthcare through the eyes of the Vitruvian man",
+            "patent_id": "scholar/1755619671052772087",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1755619671052772087"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "WO2021024145A1",
+            "primary_language": "en",
+            "publication_date": "2021-02-11",
+            "title": "Systems and methods for process mining using unsupervised learning and for automating orchestration of workflows",
+            "patent_id": "patent/WO2021024145A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021024145A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "EP4550124A1",
+            "primary_language": "en",
+            "publication_date": "2025-05-07",
+            "title": "Artificial intelligence-assisted troubleshooting for application development tools",
+            "patent_id": "patent/EP4550124A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4550124A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US11314488B2",
+            "primary_language": "en",
+            "publication_date": "2022-04-26",
+            "title": "Methods and systems for automated screen display generation and configuration",
+            "patent_id": "patent/US11314488B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11314488B2%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230196204A1",
+            "primary_language": "en",
+            "publication_date": "2023-06-22",
+            "title": "Agnostic machine learning inference",
+            "patent_id": "patent/US20230196204A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230196204A1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "US20230196203A1",
+            "primary_language": "en",
+            "publication_date": "2023-06-22",
+            "title": "Agnostic machine learning training integrations",
+            "patent_id": "patent/US20230196203A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230196203A1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "18138409237045526723",
+            "scholar_authors": "Bhatia et al.",
+            "publication_date": "2023",
+            "title": "THE DEFINITIVE GUIDE TO GOOGLE VERTEX AI: Accelerate Your Machine Learning Journey with Google Cloud Vertex AI and MLOps Best Practices",
+            "patent_id": "scholar/18138409237045526723",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18138409237045526723"
+        }
+    ],
+    "legal_events": [
+        {
+            "date": "2022-07-01",
+            "code": "FEPP",
+            "title": "Fee payment procedure",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+                }
+            ]
+        },
+        {
+            "date": "2022-07-06",
+            "code": "AS",
+            "title": "Assignment",
+            "attributes": [
+                {
+                    "label": "Owner name",
+                    "value": "MCKINSEY & COMPANY, INC., NEW YORK"
+                },
+                {
+                    "label": "Free format text",
+                    "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DURVASULA, SASTRY VSM;UTHAPPA, NEEMA;VENKATESAN, SRIRAM;AND OTHERS;SIGNING DATES FROM 20220214 TO 20220221;REEL/FRAME:060412/0091"
+                }
+            ]
+        },
+        {
+            "date": "2023-04-19",
+            "code": "STCF",
+            "title": "Information on status: patent grant",
+            "attributes": [
+                {
+                    "label": "Free format text",
+                    "value": "PATENTED CASE"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-21",
+            "code": "CC",
+            "title": "Certificate of correction"
+        }
+    ],
+    "concepts": {
+        "match": [
+            {
+                "id": "238000010801",
+                "name": "machine learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "description"
+                ],
+                "count": 359
+            },
+            {
+                "id": "238000013473",
+                "name": "artificial intelligence",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "description"
+                ],
+                "count": 30
+            },
+            {
+                "id": "238000012384",
+                "name": "transportation and delivery",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "claims",
+                    "description"
+                ],
+                "count": 30
+            },
+            {
+                "id": "238000005516",
+                "name": "engineering process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "title",
+                    "description"
+                ],
+                "count": 33
+            },
+            {
+                "id": "238000000034",
+                "name": "method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 422
+            },
+            {
+                "id": "230000015654",
+                "name": "memory",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 45
+            },
+            {
+                "id": "238000003860",
+                "name": "storage",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "abstract",
+                    "description"
+                ],
+                "count": 26
+            },
+            {
+                "id": "238000012549",
+                "name": "training",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 108
+            },
+            {
+                "id": "230000008569",
+                "name": "process",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 46
+            },
+            {
+                "id": "238000003058",
+                "name": "natural language processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 22
+            },
+            {
+                "id": "230000004044",
+                "name": "response",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 15
+            },
+            {
+                "id": "238000005067",
+                "name": "remediation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "238000012545",
+                "name": "processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 10
+            },
+            {
+                "id": "238000013079",
+                "name": "data visualisation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "claims",
+                    "description"
+                ],
+                "count": 9
+            },
+            {
+                "id": "238000010586",
+                "name": "diagram",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 50
+            },
+            {
+                "id": "238000010200",
+                "name": "validation analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 28
+            },
+            {
+                "id": "238000012800",
+                "name": "visualization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 28
+            },
+            {
+                "id": "230000007613",
+                "name": "environmental effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 16
+            },
+            {
+                "id": "238000013528",
+                "name": "artificial neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 13
+            },
+            {
+                "id": "238000004422",
+                "name": "calculation algorithm",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 13
+            },
+            {
+                "id": "230000006870",
+                "name": "function",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 13
+            },
+            {
+                "id": "230000001133",
+                "name": "acceleration",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 12
+            },
+            {
+                "id": "230000006872",
+                "name": "improvement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "238000013508",
+                "name": "migration",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "230000005012",
+                "name": "migration",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 11
+            },
+            {
+                "id": "230000009466",
+                "name": "transformation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 10
+            },
+            {
+                "id": "230000009471",
+                "name": "action",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "239000000047",
+                "name": "product",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "238000012360",
+                "name": "testing method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 8
+            },
+            {
+                "id": "238000004458",
+                "name": "analytical method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "230000006854",
+                "name": "communication",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "238000004891",
+                "name": "communication",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "230000008520",
+                "name": "organization",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 7
+            },
+            {
+                "id": "230000008901",
+                "name": "benefit",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "239000000203",
+                "name": "mixture",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "238000012544",
+                "name": "monitoring process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "238000011012",
+                "name": "sanitization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 5
+            },
+            {
+                "id": "230000004913",
+                "name": "activation",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000013459",
+                "name": "approach",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000007796",
+                "name": "conventional method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000037406",
+                "name": "food intake",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000007726",
+                "name": "management method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000012986",
+                "name": "modification",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000004048",
+                "name": "modification",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "230000001105",
+                "name": "regulatory effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000000844",
+                "name": "transformation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 4
+            },
+            {
+                "id": "238000012790",
+                "name": "confirmation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013527",
+                "name": "convolutional neural network",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013135",
+                "name": "deep learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013461",
+                "name": "design",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000000977",
+                "name": "initiatory effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "230000010354",
+                "name": "integration",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "239000002184",
+                "name": "metal",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000000513",
+                "name": "principal component analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000012552",
+                "name": "review",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000013515",
+                "name": "script",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000012706",
+                "name": "support-vector machine",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 3
+            },
+            {
+                "id": "238000007792",
+                "name": "addition",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000001413",
+                "name": "cellular effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000008859",
+                "name": "change",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013480",
+                "name": "data collection",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013523",
+                "name": "data management",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000011161",
+                "name": "development",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000008030",
+                "name": "elimination",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000003379",
+                "name": "elimination reaction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000011156",
+                "name": "evaluation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "239000012467",
+                "name": "final product",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000002452",
+                "name": "interceptive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000000670",
+                "name": "limiting effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000004519",
+                "name": "manufacturing process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000003287",
+                "name": "optical effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000009467",
+                "name": "reduction",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000002787",
+                "name": "reinforcement",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000012502",
+                "name": "risk assessment",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000009897",
+                "name": "systematic effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "238000013526",
+                "name": "transfer learning",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "230000000007",
+                "name": "visual effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 2
+            },
+            {
+                "id": "206010000117",
+                "name": "Abnormal behaviour",
+                "domain": "Diseases",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "ORILYTVJVMAKLC-UHFFFAOYSA-N",
+                "name": "Adamantane",
+                "domain": "Natural products",
+                "smiles": "C1C(C2)CC3CC1CC2C3",
+                "inchi_key": "ORILYTVJVMAKLC-UHFFFAOYSA-N",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "241000282412",
+                "name": "Homo",
+                "domain": "Species",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "208000003443",
+                "name": "Unconsciousness",
+                "domain": "Diseases",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000036528",
+                "name": "appetite",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "235000019789",
+                "name": "appetite",
+                "domain": "Nutrition",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000006399",
+                "name": "behavior",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003542",
+                "name": "behavioural effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000009286",
+                "name": "beneficial effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000007175",
+                "name": "bidirectional communication",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000005540",
+                "name": "biological transmission",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000004027",
+                "name": "cell",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007635",
+                "name": "classification algorithm",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002860",
+                "name": "competitive effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000002131",
+                "name": "composite material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000004590",
+                "name": "computer program",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010276",
+                "name": "construction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008878",
+                "name": "coupling",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000010168",
+                "name": "coupling process",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005859",
+                "name": "coupling reaction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013500",
+                "name": "data storage",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000013501",
+                "name": "data transformation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000003066",
+                "name": "decision tree",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001419",
+                "name": "dependent effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005553",
+                "name": "drilling",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000002349",
+                "name": "favourable effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000036541",
+                "name": "health",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000002955",
+                "name": "isolation",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000873",
+                "name": "masking effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000011159",
+                "name": "matrix material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000006855",
+                "name": "networking",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000003062",
+                "name": "neural network model",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "210000002569",
+                "name": "neuron",
+                "domain": "Anatomy",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000005457",
+                "name": "optimization",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000737",
+                "name": "periodic effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007781",
+                "name": "pre-processing",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000002360",
+                "name": "preparation method",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000644",
+                "name": "propagated effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007637",
+                "name": "random forest analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000000306",
+                "name": "recurrent effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000001172",
+                "name": "regenerating effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000000611",
+                "name": "regression analysis",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000009877",
+                "name": "rendering",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000010979",
+                "name": "ruby",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "229910001750",
+                "name": "ruby",
+                "domain": "Inorganic materials",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000008054",
+                "name": "signal transmission",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000003068",
+                "name": "static effect",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000000547",
+                "name": "structure data",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000012546",
+                "name": "transfer",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000007704",
+                "name": "transition",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "238000007794",
+                "name": "visualization technique",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000002699",
+                "name": "waste material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "description"
+                ],
+                "count": 1
+            }
+        ]
+    }
+}
