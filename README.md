@@ -18,202 +18,388 @@ It started as an experiment to explore how AI can process **patent databases** a
 
 ---
 
-## 🏗️ System Architecture
+# Patent Innovation Predictor
 
+An agentic RAG (Retrieval-Augmented Generation) system that analyzes patent data to predict emerging innovations and technological trends using multi-agent orchestration, semantic search, and local LLMs.
+
+## System Architecture
+
+```
 ┌───────────────────────────────────────────────────────────────┐
-│ User Interface Layer │
+│                     User Interface Layer                      │
 └───────────────────────────────────────────────────────────────┘
-│ │ │
-▼ ▼ ▼
+                │                │                │
+                ▼                ▼                ▼
 ┌───────────────────────────────────────────────────────────────┐
-│ Agent Orchestration Layer │
-│ ┌──────────────────┐ ┌────────────────┐ ┌───────────────┐│
-│ │ Research Director│ │Patent Retriever│ │Data Analyst ││
-│ └──────────────────┘ └────────────────┘ └───────────────┘│
-│ │
-│ ┌──────────────────┐ │
-│ │Innovation │ │
-│ │Forecaster │ │
-│ └──────────────────┘ │
+│                 Agent Orchestration Layer                     │
+│  ┌──────────────────┐   ┌────────────────┐  ┌───────────────┐│
+│  │ Research Director│   │Patent Retriever│  │Data Analyst   ││
+│  └──────────────────┘   └────────────────┘  └───────────────┘│
+│                                                               │
+│  ┌──────────────────┐                                         │
+│  │Innovation        │                                         │
+│  │Forecaster        │                                         │
+│  └──────────────────┘                                         │
 └───────────────────────────────────────────────────────────────┘
-│ │ │
-▼ ▼ ▼
+                │                │                │
+                ▼                ▼                ▼
 ┌───────────────────────────────────────────────────────────────┐
-│ Knowledge Processing Layer │
-│ ┌───────────────┐ ┌───────────────┐ ┌───────────────┐ │
-│ │ Semantic │ │ Hybrid │ │ Iterative │ │
-│ │ Search │ │ Search │ │ Search │ │
-│ └───────────────┘ └───────────────┘ └───────────────┘ │
+│                Knowledge Processing Layer                     │
+│  ┌───────────────┐    ┌───────────────┐    ┌───────────────┐ │
+│  │ Semantic      │    │ Hybrid        │    │ Iterative     │ │
+│  │ Search        │    │ Search        │    │ Search        │ │
+│  └───────────────┘    └───────────────┘    └───────────────┘ │
 └───────────────────────────────────────────────────────────────┘
-│ │ │
-▼ ▼ ▼
+                │                │                │
+                ▼                ▼                ▼
 ┌───────────────────────────────────────────────────────────────┐
-│ Data Storage Layer │
-│ ┌───────────────────────────────────────────────────────────┐│
-│ │ OpenSearch ││
-│ └───────────────────────────────────────────────────────────┘│
+│                     Data Storage Layer                        │
+│  ┌───────────────────────────────────────────────────────────┐│
+│  │                       OpenSearch                          ││
+│  └───────────────────────────────────────────────────────────┘│
 └───────────────────────────────────────────────────────────────┘
+```
 
----
+## Features
 
-## 🪜 Step-by-Step Development Journey
+- **Multi-Agent System**: Coordinated agents (Research Director, Patent Retriever, Data Analyst, Innovation Forecaster) work together to analyze patent data
+- **Hybrid Search**: Combines semantic search (embeddings) with keyword filtering for optimal retrieval
+- **Local LLM Integration**: Uses Ollama for running models locally (DeepSeek, Nomic-Embed)
+- **Patent Analysis**: Clustering, summarization, and trend detection from patent datasets
+- **Innovation Forecasting**: Predicts emerging technologies with confidence scores
 
-This section details exactly **how I built the system**, step by step — including setup, debugging, and fixes for the problems I encountered.
-
----
-
-
----
-
-## 🧠 Agents & Their Roles
-
-| Agent | Role | Description |
-|-------|------|--------------|
-| **Research Director** | Planner | Determines focus areas and coordinates other agents. |
-| **Patent Retriever** | Data Collector | Retrieves relevant patents from OpenSearch. |
-| **Data Analyst** | Processor | Analyzes patents for trends, keywords, and citations. |
-| **Innovation Forecaster** | Predictor | Predicts potential innovation areas using LLM reasoning. |
-
----
-
-## 🛠️ Prerequisites
-
-Before running the system, make sure you have the following installed:
+## Prerequisites
 
 - **Python 3.10+**
-- **Docker** (for Ollama and OpenSearch)
-- **VS Code** (recommended)
-- **OpenSearch instance** (default: `localhost:9200`)
-- **Ollama** (for local LLM models)
-- Patent data (to be pre-loaded into OpenSearch)
+- **Docker** (Docker Desktop recommended)
+- **Docker Compose**
+- **Ollama** (via Docker container)
+- **OpenSearch** instance running (default: localhost:9200)
+- Access to patent data (pre-loaded in OpenSearch or available for ingestion)
+- **Recommended**: 8GB+ RAM (16GB recommended for comfortable local model + OpenSearch operation)
 
----
+## Installation
 
-## ⚙️ Installation & Setup
+### 1. Clone the repository
 
-### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/patent-innovation-analyzer.git
-cd patent-innovation-analyzer
+git clone https://github.com/yourusername/patent-innovation-predictor.git
+cd patent-innovation-predictor
+```
 
-### Step 2: Create a Virtual Environment
+### 2. Create a virtual environment
+
+```bash
 python -m venv .venv
-source .venv/bin/activate       # For Linux/Mac
-# OR
-.venv\Scripts\activate          # For Windows
 
-Step 3: Install Dependencies
+# macOS / Linux
+source .venv/bin/activate
+
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Install and start Ollama as a Docker Container
+
+```bash
+docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+```
+
+### 5. Pull required models
+
+```bash
+docker exec -it ollama ollama run deepseek-r1:1.5b
+docker exec -it ollama ollama run nomic-embed-text   # For embeddings
+```
+
+### 6. Start OpenSearch
+
+```bash
+docker compose -f docker-compose.yml up -d
+```
+
+Make sure your OpenSearch instance is running on `localhost:9200` (or update the connection settings in the code).
+
+## Configuration
+
+Create a `.env` file in the project root or set environment variables:
+
+```env
+OPENSEARCH_HOST=localhost
+OPENSEARCH_PORT=9200
+OPENSEARCH_INDEX=patents
+OLLAMA_HOST=localhost
+OLLAMA_PORT=11434
+EMBEDDING_MODEL=nomic-embed-text
+LLM_MODEL=deepseek-r1:1.5b
+BATCH_SIZE=16
+```
+
+Adjust `BATCH_SIZE` to control memory and throughput when creating embeddings.
+
+## Data Ingestion
+
+### Example OpenSearch Mapping
+
+```json
+PUT /patents
+{
+  "mappings": {
+    "properties": {
+      "patent_id": { "type": "keyword" },
+      "title": { "type": "text" },
+      "abstract": { "type": "text" },
+      "claims": { "type": "text" },
+      "publication_date": { "type": "date" },
+      "assignee": { "type": "keyword" },
+      "cpc": { "type": "keyword" },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 768
+      }
+    }
+  }
+}
+```
+
+### Batch Indexing (Python)
+
+```python
+from utils.opensearch_client import get_client
+client = get_client()
+
+def index_batch(docs):
+    actions = []
+    for d in docs:
+        actions.append({"index": {"_index": "patents", "_id": d['patent_id']}})
+        actions.append(d)
+    client.bulk(body=actions)
+```
+
+### Embedding Pipeline
+
+1. Generate embeddings in batches (size controlled by `BATCH_SIZE`)
+2. Attach embedding field and index documents into OpenSearch
+
+## Agent Architecture
+
+### Message Schema
+
+JSON-based message format for agent-to-agent communication:
+
+```json
+{
+  "id": "msg-001",
+  "from": "ResearchDirector",
+  "to": "PatentRetriever",
+  "instructions": "Find patents related to 'battery thermal management' in last 5 years with high citation.",
+  "payload": { "query": "battery thermal management", "years": 5 }
+}
+```
+
+### Agent Roles
+
+#### ResearchDirector
+- Accepts user topic or prompt
+- Expands to keywords + seed queries (uses LLM to expand synonyms and related topics)
+- Sends structured instructions to PatentRetriever
+
+#### PatentRetriever
+- Executes hybrid search:
+  - Keyword filter (CPC, assignee, dates)
+  - Semantic search using embeddings + dot-product similarity
+- Returns top-K documents and metadata
+
+#### DataAnalyst
+- Abstract summarization (LLM)
+- Keyword extraction (TF-IDF + LLM)
+- Clustering (k-means on embeddings or agglomerative)
+- Citation-network features (if citation graph available)
+- Stores results in local cache & index for speed
+
+#### InnovationForecaster
+- Consumes cluster summaries and trend features
+- Prompts LLM to reason and list 5–10 likely near-term innovations
+- Provides confidence scores and suggested research directions
+
+## Usage
+
+### Start Services
+
+1. Start OpenSearch and Ollama
+2. Index your patent dataset (see ingestion above)
+
+### Run the Orchestrator
+
+```bash
+python agentic_rag.py --topic "battery thermal management" --years 5
+```
+
+### Sample Output
+
+```
+[ResearchDirector] Seed queries created: ["battery thermal runaway", "thermal management cells", ...]
+[PatentRetriever] Found 128 candidate patents (top-K 40)
+[DataAnalyst] Clustered into 6 clusters: cluster labels [0..5]
+[InnovationForecaster] Predictions:
+  - Hybrid passive-active cooling for pouch cells (confidence 0.78)
+  - Modular thermal sensors + faster local balancing (confidence 0.72)
+```
+
+## Testing & Debugging
+
+### Testing Tips
+
+- Unit test agents in isolation
+- Mock OpenSearch responses for PatentRetriever
+- Use a small dataset (100 patents) while developing
+- Log everything: message flows, LLM requests/responses, timing
+- Cache LLM outputs on disk (`./cache/`) to avoid repeated cost
+
+### Test Ollama Endpoint
+
+```bash
+curl -X POST http://localhost:11434/v1/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model":"deepseek-r1:1.5b",
+    "input":"Summarize: Lithium cell thermal management techniques in two lines."
+  }'
+```
+
+## Troubleshooting
+
+### 1. Docker + VS Code + Ollama System Freeze
+
+**Symptom**: Laptop becomes unresponsive when starting Ollama and VS Code.
+
+**Fix**:
+- Increase Docker Desktop memory (Settings → Resources → Memory) to 4-8 GB
+- Close unused VS Code windows and disable heavy extensions
+- Start services sequentially (OpenSearch first, then Ollama)
+
+```bash
+docker ps -a
+docker stop <container_id>
+docker rm <container_id>
+docker system prune -f
+```
+
+### 2. Ollama Volume/Permission Errors
+
+**Symptom**: Container fails with mount errors.
+
+**Fix**:
+```bash
+docker volume rm ollama
+docker run -d --name ollama -p 11434:11434 -v ollama:/root/.ollama ollama/ollama
+```
+
+On Windows, ensure Docker has drive permission (Docker Desktop → Resources → File Sharing).
+
+### 3. OpenSearch Out-of-Memory
+
+**Symptom**: OpenSearch crashes during bulk indexing.
+
+**Fixes**:
+- Reduce bulk batch size to 50 docs per request
+- Set JVM options in `docker-compose.yml`:
+
+```yaml
+environment:
+  - OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx1g
+```
+
+- Use ingestion script with `yield` and sleep between batches
+
+### 4. LLM Output Parsing Issues
+
+**Symptom**: LLM returns free-form text instead of JSON.
+
+**Fix**:
+- Use strong system instructions: "OUTPUT MUST BE JSON"
+- Add fallback parser to retry with format correction
+- Example instruction:
+
+```
+You are an assistant. Output MUST be a single valid JSON object with keys: 
+predictions (list), confidences (list), rationale (string).
+```
+
+### 5. Async Blocking and Timeouts
+
+**Symptom**: Orchestrator blocks on LLM calls.
+
+**Fix**:
+```python
+import asyncio
+await asyncio.wait_for(run_llm_call(...), timeout=30)
+```
+
+Use `asyncio.get_running_loop().run_in_executor()` for blocking I/O.
+
+### 6. VS Code Wrong Python Interpreter
+
+**Symptom**: Import errors due to global Python instead of `.venv`.
+
+**Fix**: `Ctrl+Shift+P` → Python: Select Interpreter → choose `.venv`
+
+## Performance Tuning
+
+- **Batch embeddings**: Use `BATCH_SIZE=8/16` on low-memory machines; increase to 64+ on servers
+- **Cache embeddings**: Store on disk to avoid recomputation
+- **Index optimization**: Only required fields in OpenSearch; compress long texts
+- **Distributed inference**: Run heavy LLM inference on separate machine
+- **Monitoring**: Use `docker stats` and OpenSearch logs
+
+## Future Roadmap
+
+- [ ] Web UI (Streamlit / Next.js) for cluster visualization and forecasts
+- [ ] Evaluation & backtesting on historical patent data
+- [ ] Cloud-hosted LLM integration option
+- [ ] Automated patent ingestion from USPTO/WIPO APIs
+- [ ] Multi-lingual support for non-English patents
+
+## Quick Commands Summary
+
+```bash
+# Clone
+git clone https://github.com/yourusername/patent-innovation-predictor.git
+cd patent-innovation-predictor
+
+# Environment
+python -m venv .venv
+source .venv/bin/activate
+
+# Dependencies
 pip install -r requirements.txt
 
-Step 4: Start Ollama (via Docker)
+# Ollama
 docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
-
-Step 5: Pull Required Models
 docker exec -it ollama ollama run deepseek-r1:1.5b
 docker exec -it ollama ollama run nomic-embed-text
 
-Step 6: Run OpenSearch
-docker compose -f docker-compose.yml up
+# OpenSearch
+docker compose -f docker-compose.yml up -d
 
-Step 7: Verify Services
+# Run
+python agentic_rag.py --topic "battery thermal management" --years 5
+```
 
-OpenSearch: http://localhost:9200
+## License
 
-Ollama: http://localhost:11434
+MIT License - Free to use and modify for learning/research.
 
-If both respond, you’re good to go!
+## Author
 
-⚙️ Configuration
+**Subham Mohapatra**
 
-You can configure your environment using a .env file:
+---
 
-# Optional API keys or configuration
-SERPAPI_API_KEY=your_api_key_here
-
-
-The system will automatically create required indices in OpenSearch if they don’t exist.
-
-▶️ Usage
-
-To start the system:
-
-python agentic_rag.py
-
-
-You’ll see the agents begin communicating and performing tasks in sequence:
-
-Research Director assigns topics
-
-Patent Retriever fetches relevant data
-
-Data Analyst summarizes and clusters insights
-
-Innovation Forecaster predicts upcoming trends
-
-💡 Step-by-Step: How I Built This Project
-
-Concept Design
-
-Wanted to explore how AI agents can automate research tasks like patent mining.
-
-Started with a lithium battery case study, later expanded to all patents.
-
-Environment Setup
-
-Faced issues running Docker and VS Code together due to RAM usage (Docker engine consumed ~3–4GB).
-
-Solved by limiting Docker memory allocation and closing heavy VS Code extensions.
-
-Ollama Setup
-
-Encountered port conflicts with previous containers.
-
-Fixed by stopping all previous instances and cleaning Docker volumes.
-
-OpenSearch Integration
-
-Learned to configure indices manually using the REST API.
-
-Created a script to auto-create indices if missing.
-
-Agent Logic
-
-Implemented agents step-by-step:
-
-First tested a single retrieval agent.
-
-Then added orchestration with async coordination.
-
-Finally added forecasting logic.
-
-Testing & Debugging
-
-Faced multiple issues with async I/O blocking and memory overflow while embedding large patent texts.
-
-Solved by batching data and caching intermediate steps.
-
-Final Integration
-
-Connected everything: Ollama (for LLM reasoning), OpenSearch (for semantic search), and Python orchestrator.
-
-🧠 Lessons Learned
-
-Managing Docker containers and VS Code simultaneously requires good system memory (8GB+ recommended).
-
-Ollama’s local model hosting is powerful but memory-heavy.
-
-Understanding how RAG + multi-agent orchestration works helped me understand advanced AI pipelines.
-
-Debugging async logic in Python was one of the hardest but most valuable parts of this project.
-
-🧩 Future Improvements
-
-Add web-based UI (React + FastAPI backend)
-
-Enhance data visualization with graphs of patent trends
-
-Add automatic data ingestion from open patent APIs
-
-Integrate more powerful LLMs (like Mistral or Llama 3)
-
-
+**Note**: Update the repository URL and add any additional configuration files (`requirements.txt`, `docker-compose.yml`) to your GitHub repository.
